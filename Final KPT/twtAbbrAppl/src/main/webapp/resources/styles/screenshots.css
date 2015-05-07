@@ -1,0 +1,20 @@
+/* stylesheet for screenshot full-screen pages */
+
+html, body {
+  margin : 0;
+  padding : 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+  margin-top : 10px;
+}
+
+a         { color: #067ab4; text-decoration: underline; font-weight : normal; }
+a:link    { color: #067ab4; text-decoration: underline; font-weight : normal; }
+a:visited { color: #067ab4; text-decoration: underline; font-weight : normal; }
+a:active  { color: #067ab4; text-decoration: underline; font-weight : normal; }
+a:hover   { color: #003366; text-decoration: underline; font-weight : normal; }
+
+
+

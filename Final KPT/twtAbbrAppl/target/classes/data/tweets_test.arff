@@ -1,0 +1,418 @@
+@relation tweets_test
+
+@attribute document string
+@attribute Slang {yes,no}
+
+@data
+'Omg imagine just getting a phone call from him 🙈�?�?😉😛 @FollowOller http://t.co/5kNwTipOle',?
+'Omg I ordered this dresses but I haven\'t worn it yet and this girl on insta got it on............. And she look STUPID 😡😠👊',?
+'this eye won',?
+'Ugh I\'ve never been to Buffalo Wild Wings omg.',?
+'omg red wings yay',?
+'Omg last RT 😞😞',?
+'@selfishmvchines what happened to his shirt omg',?
+'omg my friend seriously just asked me if I\'ve heard Count On You... I\'ve been listening to that song for years now lmao',?
+'@qilaS yes I\'m the mothaf*king nigga bitch. #BowDownToMe eh omg ingat tak drama raya Tatum kita? 😂😂',?
+'What sound drives you crazy? — kris and chanyeol\'s rap hahahshshhfmdkcovmdmfmcmc omg http://t.co/l1RkCLCTGe',?
+'OMG, OMG,OMG!!!  😱😱 #LaVidaMeRobo',?
+'I\'m laughing omg poor Austin',?
+'@rachhhm97 omg!! 😱😱😱',?
+'@makeaaleey omg go away.😂',?
+'“@MusclePharm: #arnoldseries Iron Pack Contest!',?
+'5 Winners TONIGHT!RT 2 ENTER!! http://t.co/tqkwSSHIZA�? @King_chien14 OMG!!! RT!!!!!!',?
+'“@redhead03: @NBCRevolution OMG that was amazing can\'t wait until the 30th!!�? #RenewRevolution',?
+'OMG RT @Trill_Unicornxx: 25. Ugly but your friends always hype you up and say you\'re cute. Really you\'re just ugly with backitive.',?
+'How does she get so much height omg https://t.co/PLW6M1hpdm',?
+'@DezzyDivine omg yesss in our leotards lol',?
+'Cash will be living in the same house OMG',?
+'@iM__SO100 Lol omg ,I\'m Trying so hard not to actually say it but it\'s what I Had in the Summer',?
+'Omg we don\'t talk anymore!! :( @Fee_style',?
+'OMG that game was nuts!!!!!!! Game one DETROIT!!!!',?
+'#Ladies Quote this with a thrist trap that will make me say omg�?�?👅👅💦💦',?
+'this is all favi covers omg http://t.co/D29xXSUpna',?
+'@mogigrumbles omg, do they still make records? That\'s awesome!',?
+'@Mummy_Mayhem I\'ve ordered some, I just had to! Haha! Omg like @louberry_x was saying we need to meet up, 90\'s night???? xxx',?
+'“@Keke_babyy114: #CallOutAGoodSoftballPlayer @kendylk7 😀💞�? omg I love you!! You\'re seriously the best😊�',?
+'Omg I hope my mom would say yes to having a kitten',?
+'@babydoll_omg The we really miss you and the girls in Dallas 😫..hope to see y\'all soon..',?
+'I\'m fucking dead 😂😂',?
+'WE\'VE HAD TO CALL THE POLICE OMG IT\'s STUCK ON TOP OF A BOULDER',?
+'the Bad Boys of the 1989 and 1999 seasons was real Omg this documentary was soo cole',?
+'I\'m kinda nervous omg',?
+'@FathnieRustam i know i dah stalk!!! They are both the ultimate cute couple..Omg i feel like freaking shrek looking at her body 😭',?
+'OMG YES I DONT HAVE TO REDO IT THANK GOD',?
+'Pulling weeds. OMG where do they come from?',?
+'@tiIapia you\'re so pretty omg',?
+'@raul4v lol omg 😂😂😂😂 you got me �',?
+'taissa and her sister look so a like omg',?
+'“@OG_Cookiee: “@Chanelle_xxxx: “@JeremyNicolls: LMAO!!!! I\'m in Tears! http://t.co/gjY3pus9I2�?�?lmfaoo #dead 😂😂😩�?@OMG_ItsMelanie1',?
+'@csan888 omg, not even.  Dudes married with 2 kids and like 30.',?
+'@MaahReeUh omg yasss you read my mind!!!',?
+'@rauhlyvagina OMG I KNOW THE PART WHERE ANDY IS LIKE THANKS GUYS 😭😭😭😭 I CANT',?
+'@MaddieSu_ OMG I understand that. But I didn\'t know what was going on since there was no logical reason for it to be off. Nevermind.',?
+'Omg yas',?
+'“@Buccigross: Tied late in the 3rd in Boston. Live #bucciovertimechallenge coming? http://t.co/rJPfpPgHcc�? OMG @itzmekt',?
+'I used to really be in love in 09 omg like I was actually a loving person. Idk what happened to me. I\'m a gangster now.',?
+'Omg i messed up my fuckin phone. :(',?
+'@Meghan__Butler &amp; OMG HAPPY BIRTHDAY I LOVEEEE YOU',?
+'Omg you\'re sooooo cool :-)',?
+'Omg the dangles',?
+'@dustincmc omg I\'m go on',?
+'@MacaulaySinatra omg I hate you',?
+'OMG, I\'m on Level 75 of #WhatsTheDifference! http://t.co/Hivxyge5XO http://t.co/DvNd8RBll8',?
+'@saam__ferreira  OMG @NiallOfficial  did a Jessica kartwheel',?
+'@buterasuschrist @legendsbieber @biebergodlys @ontariosvibe IHYSM OMG',?
+'@erikatatertots omg love you are cute as heck wow',?
+'@HELLOKEVINDO omg gimme I heard those are the best',?
+'OMG THESE PEOPLE NEED TO TURN OFF THEIR FUCKING MUSIC 😡😡😡😡😡',?
+'@rachlauren842 Omg I need to add Cristi!',?
+'@zeeumsbabe: @lashtonbutera @effyounharry COMING SOON GIRLS! HAHAHAHAHAHAHAHA OMG XD NEED THIS MOVIE NOW HAHAHAHAHA',?
+'@blamecaylen OMG UR BACK, BABE!!! I MISSED U SO MUCH, PLEASE DONT EVER LEAVE AGAIN.',?
+'Omg for my birthday all I want is a whole cheese cake ',?
+'@dolliemeche OMG IM WITH YOU ON THAT ONE',?
+'@UpdatesWith5SOS Oh my gosh you followed me and you\'re my favorite update account! Omg 😭�?��?',?
+'@imaniallgurl14 OMG!�?��?thanks😘yess please follow me🙋it would make my night�🙈@_matthew22_',?
+'Omg Im So Slow !',?
+'Omg i haven\'t had so much fun like i did today! ☺�?✊',?
+'@espinosasarmy @mendesdaily @omgespinosaa OMG PLEASSEEE',?
+'@SpeakerBoehner im shamed u are from ohio...OMG. Come on Peeps make sure you VOTE. Idiots like him are a dayum good reason',?
+'Omg what kind of dream is that I feel damn horrible',?
+'“@Ivy_Beanz: “@veee_bee: @Ivy_Beanz  ivayyyyyyy�?yooooo�?🙆 omg hahahahahaahha I have so much to tell',?
+'@stephanieebang omg haha sounds like you guys hitchhiked',?
+'OMG NO WAY THE PEPPER FAVORITED MY TWEET!!!!!:))) @BritHernandez87',?
+'mY HEDGEHOG IS SO CUTE OMG http://t.co/rRSi0xJ9IB',?
+'“@TAEsty_Cake: Brielle DM that just came to my iPad 🙈😳 OMG 😂😭�? 😂😂😂😂 samething i was thinking �?�?',?
+'Omg why Mimi like I just seen her video like wtf  she a mother too omg',?
+'@love_mirandah lol I still love u mean ass',?
+'@bigtimerush your show starts now on Nick',?
+'i just literally lol\'d',?
+'Oh wait you don\'t give a fuck lol',?
+'@AlDaHustla lol smh damn shame',?
+'that should really be my twitter name lol',?
+'@tabbyrose13 I know I am you don\'t have to tell me ;) lol jk',?
+'@GodFearingStar2 lol I\'m finna get sum1 bro',?
+'she straight up put this guy on BLAST for being the baby daddy of their child! 😤👧 http://t.co/kkxhdLXxvx',?
+'“@t_oguns: Irish Twitter is dead, no one to banter with :(�? i swear you have exams lol',?
+'@LoveOfFashion1 Phone died bae. :/ just letting you know. I Love youuu &lt;33 :) can\'t use emojis.lol',?
+'great oak has had camo baseball jerseys long before any other team lol',?
+'Unripe mangoes make me want to cry 😞 #dissapointed',?
+'I got like 100 lovers tbh lol',?
+'Yeah more tweets on HGTV lol don\'t judge me. #revrunsrenovation http://t.co/RXgVhrlHny',?
+'Once you lick the frosting off a cupcake it becomes a muffin and muffins are healthy. Your\'re welcome.  lol #muffintop',?
+'@yay_yee some guy who needs some more experience before fighting in the UFC lol',?
+'Who said you can\'t have church on Twitter? Lol #GodsNotDead',?
+'@WakeUpMrWest_ you right lol 😌',?
+'thank you @blackchesney17 &amp; @ohwowww_kaycrow  because you weren\'t here for #Bruinsboozers the Bruins lost game 1 lol',?
+'@amperez1124 me too 😜 lol',?
+'Coffee gone wild...what will they think of next?? Lol #waitresswithpasties',?
+'Good food tonight got me wanting to call it a early night lol',?
+'Wish one of my friends stayed with me lol',?
+'@asry_13 I\'m staring at my new pretty tv lol #SoBored http://t.co/8nEa947Oxg',?
+'Although I do have a problem saying no I can have earth on back while still tryna hold mars and Pluto in my hands lol',?
+'I\'m on a boat rn. Lol at my life',?
+'@xLuiss_: As im still waiting for @StfuTati  to draw me a picture 😒😒😒 lol you never told me of what',?
+'Where in BGC maganda mag-meet lol',?
+'this would be nice..Stroke game: Super Saiyan lol 😂 #rp from jazzikins http://t.co/XbPr76QqZh',?
+'@kristilynmarie lol ur such a comedian :-)',?
+'@GILLY_ROYAL lol I try....',?
+'Batista still can\'t, like, do a proper spear at all. lol #SmackDown',?
+'Your a player lol that why',?
+'Lmaooo RT @YaccaFlocka: Lmfao short niggas be having big stupid ass heads lol',?
+'@_trulyred lol aye chill... I only got enough for me',?
+'@LuuSunglasses lol but uu are just admit',?
+'@_KGregz: Honestly don\'t even know why I try lol',?
+'I lol\'d ... My C++ class had an extra credit quiz. It had 1 question and I had an hour to answer it. #comedy #funny http://t.co/lUW8zt9arE',?
+'shoutout to people who club outfit is their Easter outfit. Don\'t even have to change clothes lol',?
+'@itsmovies: I just want you to know that if  I were him, I\'d never let you go.',?
+'@Niki_721 hahah right we so old lol',?
+'@skblender nah man I couldn\'t lol',?
+'When you say Ya and end the convo I\'m not texting back any more lol',?
+'@DisgustedNYer lol, I was just gonna say...they are this decades New Jersey Devils from the 90s and the early 00s',?
+'@XoTRIZZ 😩😩😩 u drawlin bread be hard as shit lol',?
+'Lol no mom. I don\'t want the type of guys you date cause they\'re arrogant assholes.',?
+'@Vintage_BOM why I gota be all that lol damn tough love � �',?
+'“@Tabather_S: @lizzysingh Your page shows two different pics lol http://t.co/DTeNACgpES�?did I fix it now?',?
+'@Shardae__ I am from time 2 time lol',?
+'“@ericaohhhh: I fangirl over everything lol�? story of my fukin life dude',?
+'@SariePoo90 she HAS TO BE LIKE I WAS. lol no drama! No girly girl. No princess 😷',?
+'@KRISPY_QUEL boy lol u about 6x bigger than me na',?
+'@d__olo lol I just might',?
+'#24 lol hey born sinner , your hilarious fullstop!',?
+'she fake thoooooo lol',?
+'616: Lol, you need fi talk more. Too shy',?
+'@Shawn_Owens18 lol I\'m just doing one and it\'s hard got a YouTube I\'m doing, getting tourneys, gfxs, teammates, but I still like it to do it',?
+'“@JigglypuffJack: @Ruppism_ #askrupp do you prefer the winter or summer?�? Summer duh! Lol',?
+'@MemPhoenix85 @Justinj1232 lol!!! Cause you know the kids like to commit fraud 💅',?
+'@NFL_Memes he\'s mad lol',?
+'@nicklewinskyyy I just know that\'s not a woman I wanna be friends with. Like. Nawl  lol.',?
+'Pretty much lol http://t.co/PoihdmoiUF',?
+'A group of guys is having a spelling bee in a Call of Duty lobby.. Lol that\'s cool..',?
+'@NorvellMcGlaun @TylerStories LOL not at all y\'all would get smashed',?
+'😑 back to work lol',?
+'I stay in 24/7 lol I just be chilling G',?
+'@Caaalidase aite good, I don\'t wanna have to put my hands on you b lol',?
+'lol does anyone play draw something anymore I\'m bored 🙈',?
+'@ColinPetierre LOL EW go away',?
+'@Savannahh_Janee i really dont wanna talk about this lol',?
+'you have a guyyy??? — Lol idek what that means http://t.co/EPXCFJowPl',?
+'@_misstraci it just came on pandora... had to hit it wit that thumbs up lol',?
+'@Michaelaaaa_M I\'m down lol',?
+'Keith telling the #GKR team how he won his Masters jacket! LOL @ Citifield - Mets Stadium http://t.co/vVhefzDpsp',?
+'@FreeDaMandem12 lol so link!!!',?
+'@PattyDs50 It wouldn\'t matter if Trump is sexier, he\'s married lol But @realDonaldTrump @renovacion',?
+'It Don\'t Matter How Old You Are, Everyone Still Puts The Soap On They Face &amp; Make A Beard When They Take A Bubble Bath :) Lol',?
+'lol these two love their trench coats and Easter mugs http://t.co/6Q6FHdsq7M',?
+'@HughleyDexter @_DOPEITS1990 i cant rock with that statement either. But hell, we will see lol',?
+'@tivo_gaga lol well that\'s where I am they have a big chocolate chip pizza!',?
+'@erra_mendoza are those your legs? Lol',?
+'@shadesofcaitlyn can I be of any assistance lol..?!',?
+'@Trass480 Lol good point. I miss you. Do you work tomorrow morning? If not, let\'s get french toast at Grandma\'s :D',?
+'@amybruni what made you interested in hunting ghosts? are you ever scared?',?
+'Let\'s gooooooo!!!!!',?
+'I see that BJ has been on base 3 times tonight. Does everyone still hate him? #HiHatters',?
+'@Dinglederper hiiiii would you like to uhm, be in my new video c: ?',?
+'notice how the phrase is you\'re going straight to hell and not you\'re going gay to hell',?
+'It hurt me to my heart like it too much',?
+'@watdaLiqWEED  😫😫 you don\'t love me FREDWARD',?
+'USE UR POWERS',?
+'I hope I find carvel cake in my freezer �?',?
+'I\'m done',?
+'serious question. Why did people knock on walking dead season 4? I',?
+'@JulianDarius @robertelessar @tgregcarpenter @errantghost solo writing on the Fourth World books, but I couldn\'t disagree more. They\'re',?
+'Who\'s going to hippie hill Sunday ?',?
+'@laperrierejack jealous...puppy',?
+'I like dresses and skirts, but when weather dictates otherwise, my uniform is jeans and white shirt. That\'s when I\'m most me. Like right now',?
+'I posted a new photo to Facebook http://t.co/RFtPZQnEco',?
+'Not to be racist but nothing annoys me more than going to the movies and having a bunch of loud and obnoxious black kids ruin the movie.',?
+'I only fuck with girls who rock Dolce &amp; Gabbana -@JODYHiGHROLLER http://t.co/m620M3r6pE',?
+'Wings win! Jimmy Howard was a stone wall tonight and Datsyuk came up with some more magic. #LetsGoWings @DetroitRedWings',?
+'today stats: No new followers, 3 unfollowers via http://t.co/CDv30saKk5',?
+'Well let\'s see how things goo',?
+'You need to want it to happen. And you need to want it bad enough to make it happen.',?
+'tonight was goood but could',?
+'No relationship is all sunshine, but two people can share one umbrella and survive the storm together. http://t.co/Cug3nmjUZG',?
+'@laurendorphin you will have to keep your eyes open for celebs!',?
+'Whens the last day of school?',?
+'Current weather in Omaha, NE at  9:00 PM 62.2 degrees, 10.5 mph from the S http://t.co/gkHJ7yXdBR',?
+'Good weather!!',?
+'#700 my thuggzz',?
+'@___weirdooo @Trill__Vonny I think I going early , like 9',?
+'Well today was nice :)',?
+'@v_corbo I am dying oh my JESUS',?
+'Lol Party Mardy wut http://t.co/c2PJcfplGn',?
+'Enjoying my mom\'s bed while she\'s gone',?
+'“@Anna_Logan5: The Last Song. �?�?�?',?
+'Was that goal datsyuk or Jesus Christ',?
+'#New #Music @ZuluFaz Feat. @TheCoolismac &amp; @WhoIsClayJames - Coolest http://t.co/agOuVfIcRh via @PreciseEarz http://t.co/LMSKoa4bJk',?
+'@corina__c maybe we can give six flags another try this summer, lmao',?
+'It\'s hard to love someone secretly.',?
+'to com fome',?
+'someone just snapchatted me bragging about the Red Wings win... Die.',?
+'“@ngtariabluejays: USA chants? SERIOUSLY?!�? -_-',?
+'@ConnorMcDonough #askconnor when will you notice me?',?
+'so happy i just bought Schoolboy q tickets',?
+'CTFU all these kids was just tough as hell TILL they seen the law They scattered like cock roaches Then got to talking tough again',?
+'@ThatDamnJessie slim I never rap but you stay actin like a nigga trynn do you wrong all da time.',?
+'@adnanESPN: Captain America aka David wright breaks up the Braves no no @Its__Qasim @RahabM2',?
+'thanks cusi @grosch_erystore http://t.co/zzwPNzBfFm',?
+'All over the world,Samitis of Asaram Bapu ashram conduct massive Social Service on #VishwaSevaDiwas http://t.co/qyLnxmBMX3 @SushmaSwarajbjp',?
+'But now i know the pain, and ohh my i wanna cry so bad',?
+'this hurts',?
+'You have no idea how much it hurts to want you',?
+'Lol bruins',?
+'@LozzahBieber thanks bby',?
+'Datsyuk goal was ridiculous that guy is a true wizard with the puck #NHLplayoffs #BecauseItsTheCup',?
+'Characteristics of a Bad Leader ,? LinkedIn http://t.co/1iUwkbavEM',?
+'the voices in my head are whispering: Go spend money on useless things 😌☀�?',?
+'😩😭😂 https://t.co/QtXUlMNbiP',?
+'New header 😌',?
+'i need my sister to take me asap,',?
+'my does my family hate me',?
+'Normal 9 pm talk with mom and grandma about saggy boobs 😂',?
+'@THE_AntMills aww 😕 it\'s okay.',?
+'What sound drives you crazy? — Metal on metal, and kids screaming http://t.co/olgH3klKwB',?
+'@thexjiggler DGD WASNT ON MY DATE AND I WAS JUST ;-;-;-; I CRIED BC THEY OPENED WITH PRELUDE',?
+'@60scafestyles Lucky people:/',?
+'https://t.co/aoWDFhcH1Q I remember I loved this show so much omg',?
+'It\'s impossible to just read one article once you end up on BuzzFeed.',?
+'Friendship is The Best Ship in This Caroline &amp; Elena Fan Video http://t.co/3NOuNhCfdI',?
+'@ImClutch2 Who said that?',?
+'@NicolexoStewart omg great choice :) haha the Notebook rofl! Good luck girl xox',?
+'@TehChief96 @Sonicx206Cp @Noe231cp @Waddle80457 ROFL I just sniped the driver of a helicopter super far away. All of his people died xD',?
+'@SheeeRatchet: Me trying to get my life together http://t.co/flnArvEJce me trying to fix my grades rofl',?
+'According to astronomy, when you wish upon a star you\'re actually a few million years late. That star is dead. Just like your dreams. Rofl!',?
+'Brilliant! Just recovered from ROFL. RT @ericmiclette It was fireworks in Williamsburg. They sold another overpriced condo to a hipster.',?
+'rofl i cant breathe brb tAENY REIGNS!!! LICK MY FEET IMBECILES!!-sooyoung',?
+'ROFL - A Cool Glow in the Dark Toilet Roll http://t.co/QFKVBtRaXb',?
+'ROFL - A Cool Glow in the Dark Toilet Roll http://t.co/6gndsobGCn',?
+'ROFL ashton\'s face tho lawl @5SOS http://t.co/q3SGHhCzq4',?
+'@haccishin rofl poor them',?
+'@claireportilla lolz its truuu doe, i rofl every time http://t.co/wXk8QNnNFX',?
+'@PJ_Kurt rofl nothing',?
+'@kshitijrai I loved 5, 13, 15, 16.... ROFL',?
+'@Oddness_Weird ROFL! *nodding in agreement* LOL',?
+'want Yomiuri Shinbun ~~~ *pokes around* rofl',?
+'ROFL 😂😂 I LOVE HER @WoahIts_Michy http://t.co/KynA8QILfS',?
+'ROFL tweet==&gt; @sarathks_: Should Indian politician Arvind Kejriwal be included on the #TIME100? Vote now http://t.co/MpCQLEbuNm via @TIME',?
+'@hana_cnu haha , ikr , and last night i watched the weekly idol and lol , i am ROFL :P',?
+'today has been shit. Rofl',?
+'Rofl lobsters #partyintheusa',?
+'I DIED AT Yoona Mary Im the 4th rofl',?
+'@CarlMorehouse ROFL No notice surprise testing? Bless',?
+'@twEAT_Mee @bombayjj ROFL he was all over her table!',?
+'“@TNAWWEGuy: I don\'t like the Comedy act stuff with Santino at all. #SmackDown�? He\'s Not That Funny Also Rofl',?
+'@jennaelsouso HAHAHAHA LAWLZ rofl lol. where the hell did you get this pic from 😂',?
+'@solcito93 ROFL!  attagirl, Sol, you\'re my li',?
+'And I was like ROFL! 😂😂😂 @ Rhoi\'s http://t.co/3MIX5Atddx',?
+'@idWRY I\'m on my brothers acc. I don\'t play this system anymore rofl. What cod are you on?',?
+'ROFL! Was just called a racist.',?
+'@adimas_rosi rofl. So.. u don\'t believe me? If you\'re my bestf u shall believe me. Idk who he\'s. Why\'re u so curious?Oo. Are u jealous? :p',?
+'@ShiKiLove81 rofl!   is it ku?!   XDDD  set up a cam! i wNna know!',?
+'@History_Pics @tmtweetz Romney\'s car elevator!! ROFL!!',?
+'@robelinda2 ok so BCCI fingering cricinfo.ROFL. BTW that is the most ludicrous copyrights claim in the history of mankind. WTFH',?
+'should I go for it... fuck yeah... I already did.. Rofl 👌😉 @ToshaU',?
+'ROFL “@IAMSHANNONBLA: @TheFansPodcast he has his own bus!!they probably painted over the old Lex Express bus. #SmackDown #exoticexpress',?
+'Homer Lee is officially Branson\'s drag queen now! ROFL http://t.co/j63AOjZs45',?
+'see ANOTHER Caliburn tapestry in bazaar and this time, I dont have enough gold ROFL',?
+'@Ngetuny_IW01 im a trend setter rofl',?
+'@MandyLouiseD f bombs every other word, I kid you not, F the F\'ing F F F rofl ok bit exaggerated',?
+'@NeverChillnGod rofl that\'s rude',?
+'In case you wonder WHY we still need testing: http://t.co/skfsdHG8r8 You had ONE job! ROFL',?
+'@jonnygreenwood7 rofl good one',?
+'@remaztheog nigga i wish you woulda saw this dumbass play rofl',?
+'LMAO ROFL LOLOL.',?
+'ROFL IM FUCKING DYING',?
+'@nealmcfee I know right...love the applying to the gaps part...ROFL!',?
+'Lmao yo you disrespectful “@GeeZzzus: My gma asking me when she gon have great grand kids .. Lmao rofl ctfu . Foh grandma lol�?',?
+'via lolfactory: A Game of Chemists- funny pics tumblr http://t.co/Br8cmspwJU #lol #rofl #funny',?
+'@GeneralStar489 HAHAHAHA!  Now that\'s more like it rofl',?
+'@Nashgrier they are so full of bs its like rofl funny Ahaha',?
+'ROFL BOLIEVE IN THIS FAGGOT http://t.co/zdEtbEld5F',?
+'@Semper_Prep Oh, I hear Reggie is as fruity as they come! ROFL! ;) @Queen2Five @simmi1957 #preppertalk',?
+'@MMcbeard ok and those ss are way hilarious btw rofl you got a stalker',?
+'I\'m a Bitcoin believer and this is hilarious! RT @sserrano44: ROFL ,? Shit Bitcoin Fanatics Say, Part 1 - YouTube http://t.co/OS2625OQ5e',?
+'eliteincome replies to: EURUSD: Gidday Traders Priceless full time comedy:rofl: {quote} I can summarize... Magix:... http://t.co/p5Bj7T2uWZ',?
+'@devotadaniellee rofl bc i realized i just got better looking after the breakup but he goes off and dyes his hair blonde',?
+'#Kateplusmy8 Silly Barbara if you learn to read the whole article you',?
+'How to write a CV http://t.co/pisAr3J3sQ #lol #rofl #nosql #humor',?
+'“@RelatableQuote: So true �? http://t.co/V7kgjEq8d6�?ROFL',?
+'He found the baby powder... #bad #badbaby #babypowder #powder #lol #rofl #haha #omg http://t.co/uGFHgFB4nQ',?
+'I like how @mcuban cuts to the chase, Yea, yea, we know it\'s a big market. ROFL',?
+'@bugfany you just have to take more initiative LOL. but if the building\'s guarded than you need to sneak the guy in too rofl',?
+'the nights when you reminisce are the best nights lol lol lol lol lol lol lol lmao lmfao rofl',?
+'When we singing songs with the word joy and everybody turns to me rofl i cant',?
+'@GeneralStar489 lol even just an X over him would be awesome ROFL',?
+'ROFL!! RT @MarlonPerry NCU have a farrin campus? “@JamaicaObserver: Teen suspended for asking Miss America to prom http://t.co/gYVj3x4rx0�?',?
+'I bet I won\'t get hit back up rofl',?
+'this movie was too freaking funny.. OMFG... #Rofl #Hauntedhouse2 with my lil sis👌😂😭😂😩😫😲 (@ The Falls) http://t.co/lYE5Dlor3L',?
+'@enterzayn no i mean like later rofl i cbb',?
+'@Gypsy_Spice: “@_FreshabeR_: catfish, fangirls, and anon accounts be like http://t.co/jn6YOJBk0t�? HAHAHA the shirt rofl � �',?
+'“@ILLUMINAT1D: THEYRE GONNA UNFOLLOW ME IM LAUGHING WAY TOO HARD http://t.co/MvRicfCh7r�? rofl this is glorious',?
+'ROFL I need to stop',?
+'ROFL Offensive Business Cards - Everyone Needs a Stack of These! http://t.co/kh3XvrUJ5S',?
+'tucked up in bed already mortified at what i might have done lmao x i know i spanked ablokes. Hairy arse rofl the... http://t.co/jxcJ5X6fat',?
+'2 people unfollowed me  automatically checked by http://t.co/AvlnZkiBl0',?
+'If Miyazaki Films Were Like Other Anime http://t.co/N3kHMmfNF9 via @CollegeHumor ROFL THIS IS PERFECT',?
+'ROFL, but interesting concept http://t.co/xwxYDKpaKv',?
+'@Liquid_DeMoN @paigeluvv Rofl, my favorite gay streamer.',?
+'@PurifiedPimpin @PurifiedPimpin Rofl bruh we was so ugly',?
+'@babypuffnoona oh. rofl. well that doesn\'t help. just breed whatever you feel like using rn then.',?
+'@HiddlestonedZ @S_Absolem @hiddlestigress ROFL!! Its so true too...',?
+'@B31tf4c3 @ninjasl0th @jwgoerlich @LenIsham @sempf @McGrumpi_Pants Awesome! Windows ME! ROFL',?
+'RT @brad_witty: No matter how hard astronauts in space LOL, they can never ROFL.',?
+'@Imaganylatrice rofl 😂😂😂 it\'ll help doe',?
+'Phelps your savior ROFL',?
+'bass cannon is a gr8 wake up song!!!!!',?
+'I woke up in such a gr8 mood lol',?
+'Do u have a gr8 post on getting more distance, luxury...  4 yr travel dollar? Tweet it to @soloandsocial &amp; u may make the ST newsletter.',?
+'@_toridori AW NOOOO MIDOTAKA MUST REUNITE (was the midorima cosplayer gr8?)',?
+'#Shopping for #MothersDay Gr8 Deals &gt; http://t.co/27PT08WZke &lt; #pottery #powerseller #gifts #clothing #shop #deals #ebay #apparel #fashion',?
+'Happpy birthdayy to my little shitt💩i love you so much bb hope you having a gr8 day💋💕💛💙💜💚❤️💖💗 http://t.co/OWdxbYvaRA',?
+'Waking up too this is gr8❤️ http://t.co/fhRBsRb9Mk',?
+'going to church and i have no makeup on and my acne is everywhere gr8',?
+'yesterday was good, today shall be GR8!',?
+'AAP Frnds - We r coming close 2 a great finale. Great historic fight agnst corpt polity n misgovernance,  Never mind the results. It is gr8.',?
+'@ScienceChannel Prophets of SyFy with Ridley Scott (on now) is a gr8 Sunday morning show. Having eggs &amp; toast, bacon while watching. THANKS',?
+'@DaniellePeazer hope ur doing gr8!!:)',?
+'Not counting on sleep tonight',?
+'@MadisonSealey ur gonna look gr8',?
+'@bigdaddyAshley u time is always gr8',?
+'“@SynTalk:An opportunity to join as a researcher. http://t.co/zuoi4JZ1hm”@kunalb11 wud be gr8 if you can help us connect wid Mumbai students',?
+'Gr8 line: @reggcohn "Elections are wonderful exercises in democratic consultation - easy to call but hard to predict" http://t.co/d1k9YvQeq2',?
+'@CongressFans @sardanarohit @NAVINKHAITAN @mediacrooks guys Rohit is a gr8 guy &amp; pls let\'s NOT get personal&amp; attack. I\'m sorry it\'s not cool',?
+'my puppy looks gr8 🎀 http://t.co/hJBvuelFD5',?
+'One of the very few things I miss in Wolcott RT @morrrrrrrg: Craving bill and sams',?
+'I actually played cod ghosts yesterday; it\'s really fucking easy #noskillneeded #forcasuals',?
+'@HDFCBank_Cares want to appreciate PB authoriser in Sec14 ggn branch..best service we got in hdfc brnch..gr8 exp..gud job done',?
+'Wow! A runner\'s notes..Gr8 success!"@charlesmenzies: The baseline plan. But anything under four hours will be great! http://t.co/XkNHqY0rQg”',?
+'😧RT @ESPNStatsInfo: Russell Westbrook joined Rajon Rondo as the only players in NBA history with 2 Game 7 triple-doubles. (@EliasSports)',?
+'prom with gilinsky would be gr8',?
+'CLICK HERE FOR HIP HOP\'s LATEST RELEASES, REVIEWS, NEWS &amp; MORE ON THE @HipHopRevoRadio BLOG! http://t.co/XjR0ZGD5fs #HipHopRevo',?
+'Just come across http://t.co/9zBiyr3jkC superb for finding \'similar\' apps - gr8 filter search. Highly recommend #edtech',?
+'Annddd now I\'m feeling not so gr8 cause it was just a dream 😢',?
+'I don\'t feel good and I\'m in a gr8 mood. Today\'s going to be swell',?
+'tune into the Force wiv these surprisingly gr8 Star Wars headphones http://t.co/JDedWvXYFt #BobaFett #fit #highfrequency #SMS',?
+'my month of Favour &amp; Grace...I\'m grateful to God for a new yr of my life. And it\'s definitely gonna be a gr8 yr for me &amp; all dt concerns me!',?
+'104.5 block party was gr8 yo',?
+'@Ashton5SOS @jenalive11 THIS IS GR8 BC FAVE BANDS',?
+'Gr8 #Guardian review of our @ecoactiongames #free #trump #game #App. Download for free here:  http://t.co/hFTewajpzR',?
+'Great night',?
+'A gr8 1 I can pay for his jokes RT"@LekohD_: He is on the roll @Thullzee: Angithi he is a comedian @OzzaT_: Julius aint reading like yalls',?
+'gr8 wee movie day wif the kiddies :0)',?
+'@CurioFilms  watched inbox it is awesome. i am 16 and have a gr8 script need all the help u can offer me to work i want to join ur group',?
+'Yes I am a guy Yes I play video games Don\'t hit on me silly girls xox http://t.co/tZGqpLJmFn',?
+'Feeling gr8 cause I had a dream about #oneofmyfollowers 😛',?
+'Hahahahaha gr8 bantz!!!',?
+'#sunchat Thank U Everyone for an amazing chat this morning chock full of ideas! Thank U co-mods @barbarawmadden &amp; @mssackstein GR8 Edus!',?
+'How can I lose is a gr8 hit !! Indeed I must say (=',?
+'oh yes maybe I should\'ve tweeted earlier about how gr8 my friends are for throwing me a surprise bday party y\'all are cool',?
+'5 Figure Day; highly recommended and most leads generation system and resul conversion:http://t.co/2RLLfpS616',?
+'@millsvills Milly, gr8 Elephants awe!! Will show auntie P, she loves Elephants. Xx',?
+'@ClintIrwin #MOTM in Summit Club by @2lemetry - gr8 with the kids as always. Congrats @ColoradoRapids / @Ciaotelecom http://t.co/ZMvM43lCsK',?
+'thats a gr8 idea @barbarawmadden TY! http://t.co/QgVlZIn23w #sunchat #elemchat #5thchat #1to1techat #digcit http://t.co/d4ycaLYIoI',?
+'bagels r gr8',?
+'Good luck MVP on day 2 y\'all will be gr8 cause y\'all rock 💍💕',?
+'“@Michael5SOS: Adelaide you are gr8, see you again soooooon #radelaide” &lt;333333333',?
+'happy birthday to my best friend hugh @BudGston I hope u have a gr8 day &amp; I love u sm! 🎨ART CLASS DYNAMIC DUO 2K14🎨 http://t.co/mkPd3dy9H7',?
+'@ohmygallys_ happy birthday have a gr8 day.:)',?
+'Omg may is going to be gr8. Off probation, Lana, Skirllex, and APUSH ends........',?
+'@LassBible @Beth_Macmillan wiv gr8 sweg cums gr8 respekt!',?
+'Eat alone! Is gr8 or bad?',?
+'@megmannings im living in denial land, jirah . its gr8 , gwen is alive and she is with peter in england uwu',?
+'Running away good people. Got a Yorkie to walk and flowers to plant b4 rain comes. Gr8 #sunchat',?
+'We had a blast at #FCBD @dmcomics thank you for having us ! @TheCovinator!! Always gr8 seeing friends &amp; making new ones. #TheBatsyTwins',?
+'mad_thickness lol http://t.co/7koTf36lok',?
+'@_valentaaa this picture makes me so happy I stopped tanning lol.',?
+'YES I found it after much perseverance LOL. #love #onlyinbangkok #havaianas finally switched back to… http://t.co/hTitQ5yNLr',?
+'@14___NNA okay I got u lol. How many u want ?',?
+'@MrsJ_Gray thanks. Trying to work on that belly.. F%#** it\'s tough and I haven\'t even had kids.. Lol..',?
+'Lol Been Reading Mfs Tweets and Tey Really Got Me Fucked Allll The Way Up',?
+'@IamRobertAnd @HeiidayBand  Wtf, you just see me? Hahaha did you just see me ba? Lol',?
+'In social media, I always blurt out Vulgarities but in real life.. I rarely even do that lol',?
+'steak , pork roll , egg whites , hash browns and grits 😜 protein like a bihhh lol',?
+'@_daichaa - Lol . tell me why some body else tryed to call me that 😒',?
+'Lol my parents are sweet http://t.co/cp3yDPHD0J',?
+'“@LordeIsOurDJ: To each it\'s own tho. Who am I? Just a regular guy from Youngstown, Oh. I ain\'t even supposed to be this far lol”aaaayyyyeee',?
+'sucks I can\'t eat right now lol',?
+'my clssmtes complained in ws grp tht thy cnt sleep bcs of tmr exams &amp; our tchr said,cnt sheep til you fall asleep LOL http://t.co/4Z3X6B9UdN',?
+'At the 9am service we act like we dont c each other. Lol',?
+'@itsoasix it was not only black, but hairy as fuck. lol',?
+'@MarieeeHollie @AAveritt2112 I\'m good! Just a little headache.. Lol',?
+'@thecouncilcobra +18 with 20 points in Game 7.  Harry Barnes....goose egg.  LOL',?
+'Lol what\'s this? The geh aint sexy at all @confessormissy',?
+'I woke up quick lol',?
+'@TweetedOnYaFace eww lol',?
+'Haha funny lol x http://t.co/rUDNysGBkd',?
+'LOL at me thinking I\'ll get a 10 page paper done by Tuesday 😩',?
+'@asvp_shad i wouldn\'t, give it some more time, work legs lol',?
+'@rodgerk1 I know but still... He\'s Mesut Özil lol',?
+'@7Ameezy4 Lol I\'ve been there so many times lol',?
+'Anyway, in the next few days I will catch up with FP before heading on to my other messages...lol! I love you all... http://t.co/LuufS4qmwn',?
+'Lol ok I\'m bout to text you creep RT @greg0878: @YonFromThe215 smh lol we\'ll make up for it now lol',?
+'3 years ago.... @RachaelGrana woooooaaaahhhhh who\'s jackets are those lol http://t.co/QOPUdfAcDF',?
+'Bom had 7min of screentime in a 2 hours show lol',?
+'It\'s a bit busy lol',?
+'I\'m in tears right now lil nigga mad as shit lol #Fixyaface http://t.co/Gcs9AfIwyc',?
+'intergalactikK oh ok cool lmaoo...i was thinkin to myself \"bruh just talk normal she dunno wtf you sayin sometimes\" lol',?
+'@istealcandycane lol two friends of mine got married last week :S',?
+'Gonna stop at 50 cause I\'ll be super annoying. lol',?

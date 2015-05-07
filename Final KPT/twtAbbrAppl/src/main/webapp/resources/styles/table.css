@@ -1,0 +1,175 @@
+table.summary {
+	border:1px solid black;
+	border-collapse:collapse;
+}
+table.summary th, table.summary td {
+	border:1px solid #aaaaaa;
+	padding: 2px 6px 2px 6px;
+	font-size: 10pt;
+	font-family: Arial, sans-serif;
+	font-weight: normal;
+	font-variant: normal;
+	font-style: normal;
+	text-transform: none
+}
+
+table.summary thead th {
+	background-color:#ff850d;
+	position:relative;
+}
+
+
+
+table.example {
+	border:1px solid black;
+	border-collapse:collapse;
+}
+table.example th, table.example td {
+	border:1px solid #aaaaaa;
+	padding: 2px 6px 2px 6px;
+	font-size: 10pt;
+	font-family: Arial, sans-serif;
+	font-weight: normal;
+	font-variant: normal;
+	font-style: normal;
+	text-transform: none
+}
+
+table.example thead th {
+	background-color:#ff850d;
+	position:relative;
+}
+
+table.example tfoot td {
+	background-color:#ffccff;
+}
+
+table.example tr.tbody_header {
+	font-weight:bold;
+	text-align:center;
+	background-color:#dddddd;
+}
+
+table.example a.pagelink {
+	padding-left:5px;
+	padding-right:5px;
+	border:1px solid #666666;
+	margin:0px 5px 0px 5px;
+}
+table.example a.currentpage {
+	background-color:yellow;
+}
+/* Striping */
+tr.alternate {
+	background-color:#ffffcc;
+}
+
+/* Sorting */
+th.table-sortable {
+	cursor:pointer;
+	background-image:url("../images/sortable.gif");
+	background-position:center left;
+	background-repeat:no-repeat;
+	padding-left:12px;
+}
+th.table-sorted-asc {
+	background-image:url("../images/sorted_up.gif");
+	background-position:center left;
+	background-repeat:no-repeat;
+}
+th.table-sorted-desc {
+	background-image:url("../images/sorted_down.gif");
+	background-position:center left;
+	background-repeat:no-repeat;
+}
+th.table-filtered {
+	background-image:url("../images/filter.gif");
+	background-position:center left;
+	background-repeat:no-repeat;
+}
+select.table-autofilter {
+	font-size:smaller;
+}
+
+/* Examples which stray from the default */
+table.altstripe tr.alternate2 {
+	background-color:#ccffff;
+}
+
+/* Icons box */
+.iconset {
+	margin:5px;
+	border:1px solid #cccccc;
+	border-color:#cccccc #666666 #666666 #cccccc;
+	text-align:center;
+	cursor:pointer;
+	width:100px;
+}
+.iconset img {
+	margin:3px;
+}
+
+/* Documentation */
+tr.doc_section {
+	font-weight:bold;
+	text-align:center;
+	background-color:#dddddd;
+}
+
+table.lockable {
+	border:1px solid black;
+	border-collapse:collapse;
+}
+table.lockable th, table.lockable td {
+	border:1px solid #aaaaaa;
+	padding: 2px 6px 2px 6px;
+	font-size: 10pt;
+	font-family: Arial, sans-serif;
+	font-weight: normal;
+	font-variant: normal;
+	font-style: normal;
+	text-transform: none
+}
+
+table.lockable thead th, table.lockable thead th.locked {
+	background-color:#ff850d;
+	position:relative;
+}
+
+table.lockable thead th {
+	top: expression(document.getElementById("tbl-lockable").scrollTop-2);
+}
+
+table.lockable thead th.locked {z-index: 30;}
+
+table.lockable td.locked, table.lockable th.locked {
+	background-color: #bbcdfd;
+	font-weight: normal;
+	border-right: 1px solid silver;
+	left: expression(parentNode.parentNode.parentNode.parentNode.scrollLeft);
+	position: relative;
+	z-index: 10;
+}
+
+table.lockable tfoot td {
+	background-color:#ffccff;
+}
+
+table.lockable tr.tbody_header {
+	font-weight:bold;
+	text-align:center;
+	background-color:#dddddd;
+}
+
+table.lockable thead th.locked {}
+
+table.lockable a.pagelink {
+	padding-left:5px;
+	padding-right:5px;
+	border:1px solid #666666;
+	margin:0px 5px 0px 5px;
+}
+
+table.lockable a.currentpage {
+	background-color:yellow;
+}

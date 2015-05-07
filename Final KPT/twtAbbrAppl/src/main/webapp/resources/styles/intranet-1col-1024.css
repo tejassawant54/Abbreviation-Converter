@@ -1,0 +1,9 @@
+/* AT&T Intranet Template 1024px Overrides */
+
+/* 1024px version actually 990px wide */
+
+/* override page layout defaults */
+
+            #page-wrapper, #column-wrapper {
+              width : 990px;
+            }

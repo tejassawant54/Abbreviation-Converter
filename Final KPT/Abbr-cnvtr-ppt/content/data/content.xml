@@ -1,0 +1,1426 @@
+<zuiprezi>
+  <version>7</version>
+  <zui-table>
+    <settings>
+      
+      <autoplay>
+        
+        <delay>4000</delay>
+        
+      </autoplay>
+      
+      <bounds x="-48841.38949297751" y="-24260.711755778695" width="97682.77898595502" height="48521.42351155739"/>
+      <aspectratio>off</aspectratio>
+      <languages>
+        <language>en</language>
+      </languages>
+      <mode type="normal"/>
+    </settings>
+    <object id="0" type="button" x="0" y="0" r="0" s="75.80993303072124" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1101.3598012545926</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>input-output</parentTemplate>
+      </meta>
+      <layout>
+        <frametype value="OVERVIEW"/>
+      </layout>
+    </object>
+    <object id="36_24309637" type="text" x="33967.22932027202" y="17056.52648747214" r="7.213539894061278e-16" s="50.077915390370976" class="strong">
+      <height>127.96875</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Group 4:]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[Rohan Murde]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[Aishwarya Sawant]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[Tejas Sawant]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="24_24309637" type="shape" x="-23119.486837079447" y="-15070.437903201351" r="-150.00000000000003" s="10.015098497188603" class="line1">
+      <geom type="arrow">
+        <sp>263.2146664550344 54.44308922980144</sp>
+        <ep>-263.2146664550344 54.44308922980131</ep>
+        <b>108.88617845960276</b>
+        <t>10</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>input-output</parentTemplate>
+      </meta>
+    </object>
+    <object id="26_24309637" type="shape" x="-22567.0353853082" y="2397.134395117693" r="137.45273732280478" s="10.01509849718861" class="line1">
+      <geom type="arrow">
+        <sp>267.4247036293355 -47.49920420534024</sp>
+        <ep>-267.42470362933545 -47.49920420534031</ep>
+        <b>-94.99840841068055</b>
+        <t>10</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>input-output</parentTemplate>
+      </meta>
+    </object>
+    <object id="27_24309637" type="shape" x="-20588.114896938285" y="-11476.024677941186" r="-165.00000000000006" s="10.015098497188603" class="line1">
+      <geom type="arrow">
+        <sp>168.16138303843363 27.132405384883313</sp>
+        <ep>-168.1613830384336 27.13240538488327</ep>
+        <b>54.264810769766584</b>
+        <t>10</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>input-output</parentTemplate>
+      </meta>
+    </object>
+    <object id="28_24309637" type="shape" x="-19375.199868817264" y="-1270.1698470002266" r="152.09906660744588" s="10.015098497188603" class="line1">
+      <geom type="arrow">
+        <sp>167.86733808476748 -17.779458076246396</sp>
+        <ep>-167.86733808476748 -17.779458076246446</ep>
+        <b>-35.55891615249284</b>
+        <t>10</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>input-output</parentTemplate>
+      </meta>
+    </object>
+    <object id="29_24309637" type="shape" x="-17233.323328857634" y="-10874.917041887711" r="152.09906660744588" s="10.015098497188603" class="line1">
+      <geom type="arrow">
+        <sp>167.86733808476748 -17.779458076246396</sp>
+        <ep>-167.86733808476748 -17.779458076246446</ep>
+        <b>-35.55891615249284</b>
+        <t>10</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>input-output</parentTemplate>
+      </meta>
+    </object>
+    <object id="30_24309637" type="shape" x="-13247.66900139541" y="-13712.884608390888" r="158.47309222387028" s="10.015098497188593" class="line2">
+      <geom type="arrow">
+        <sp>184.22646149018396 -17.779458076246353</sp>
+        <ep>-184.22646149018396 -17.77945807624646</ep>
+        <b>-35.55891615249281</b>
+        <t>10</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>input-output</parentTemplate>
+      </meta>
+    </object>
+    <object id="31_24309637" type="shape" x="-15266.871331779785" y="-1165.5260272035748" r="177.09033435407432" s="10.015098497188603" class="line1">
+      <geom type="arrow">
+        <sp>160.77354733223046 -28.32852520364567</sp>
+        <ep>-160.77354733223046 -28.32852520364576</ep>
+        <b>-56.65705040729143</b>
+        <t>10</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>input-output</parentTemplate>
+      </meta>
+    </object>
+    <object id="32_24309637" type="shape" x="-12939.028894601608" y="708.4953645913629" r="-153.73358934816912" s="10.015098497188616" class="line2">
+      <geom type="arrow">
+        <sp>202.83742616638517 31.552721255447217</sp>
+        <ep>-202.83742616638517 31.552721255447096</ep>
+        <b>63.105442510894314</b>
+        <t>10</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>input-output</parentTemplate>
+      </meta>
+    </object>
+    <object id="33_24309637" type="shape" x="-5711.375200093473" y="-14412.707000499498" r="-166.9014654217436" s="10.015098497188605" class="line2">
+      <geom type="arrow">
+        <sp>233.2351318272861 -17.77945807624635</sp>
+        <ep>-233.2351318272861 -17.77945807624646</ep>
+        <b>-35.55891615249281</b>
+        <t>10</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>input-output</parentTemplate>
+      </meta>
+    </object>
+    <object id="34_24309637" type="shape" x="-9045.64976625954" y="2186.4394920009327" r="176.129962805421" s="10.015098497188609" class="line2">
+      <geom type="arrow">
+        <sp>227.69296680620184 19.313873807199297</sp>
+        <ep>-227.69296680620184 19.313873807199275</ep>
+        <b>38.62774761439857</b>
+        <t>10</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>input-output</parentTemplate>
+      </meta>
+    </object>
+    <object id="35_24309637" type="shape" x="-3274.35393381214" y="136.24172413796077" r="165.00000000000006" s="10.015098497188603" class="line2">
+      <geom type="arrow">
+        <sp>229.6302525132333 19.31387380719932</sp>
+        <ep>-229.6302525132333 19.313873807199265</ep>
+        <b>38.62774761439859</b>
+        <t>10</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>input-output</parentTemplate>
+      </meta>
+    </object>
+    <object id="37_24309637" type="shape" x="537.6849843953755" y="-12480.087698236282" r="-168.42251010537947" s="14.021137896064038" class="line3">
+      <geom type="arrow">
+        <sp>183.98881137090805 13.795624147999536</sp>
+        <ep>-183.98881137090808 13.795624147999474</ep>
+        <b>27.59124829599901</b>
+        <t>10</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>input-output</parentTemplate>
+      </meta>
+    </object>
+    <object id="38_24309637" type="shape" x="1672.0977721069644" y="110.32288827863704" r="167.71253447557788" s="10.015098497188603" class="line3">
+      <geom type="arrow">
+        <sp>241.5771620205256 -18.833344935606643</sp>
+        <ep>-241.5771620205256 -18.8333449356067</ep>
+        <b>-37.66668987121334</b>
+        <t>10</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>input-output</parentTemplate>
+      </meta>
+    </object>
+    <object id="39_24309637" type="shape" x="17378.288660521" y="-389.89474989672726" r="179.99999999999994" s="10.015098497188609" class="line5">
+      <geom type="arrow">
+        <sp>307.1896567792151 0</sp>
+        <ep>-307.18965677921517 0</ep>
+        <t>10</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>input-output</parentTemplate>
+      </meta>
+    </object>
+    <object id="40_24309637" type="shape" x="-7252.725986437169" y="-12911.14649046406" r="-153.73358934816912" s="10.015098497188616" class="line2">
+      <geom type="arrow">
+        <sp>202.83742616638511 -26.330517691212815</sp>
+        <ep>-202.83742616638511 -26.330517691212933</ep>
+        <b>-52.661035382425744</b>
+        <t>10</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>input-output</parentTemplate>
+      </meta>
+    </object>
+    <object id="41_24309637" type="shape" x="4236.714051107847" y="-2287.0751161487956" r="167.71253447557788" s="10.015098497188603" class="line4">
+      <geom type="arrow">
+        <sp>241.5771620205256 -18.833344935606643</sp>
+        <ep>-241.5771620205256 -18.8333449356067</ep>
+        <b>-37.66668987121334</b>
+        <t>10</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>input-output</parentTemplate>
+      </meta>
+    </object>
+    <object id="42_24309637" type="shape" x="19355.581559526847" y="-1248.0738428977738" r="179.99999999999994" s="10.015098497188609" class="line5">
+      <geom type="arrow">
+        <sp>307.1896567792151 0</sp>
+        <ep>-307.18965677921517 0</ep>
+        <t>10</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>input-output</parentTemplate>
+      </meta>
+    </object>
+    <object id="43_24309637" type="shape" x="18829.569013916574" y="-11399.073596318416" r="179.99999999999986" s="10.015098497188609" class="line5">
+      <geom type="arrow">
+        <sp>307.1896567792151 0</sp>
+        <ep>-307.18965677921517 0</ep>
+        <t>10</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>input-output</parentTemplate>
+      </meta>
+    </object>
+    <object id="45_24309637" type="shape" x="16594.366183350372" y="-10539.04483386095" r="179.9999999999998" s="10.015098497188603" class="line5">
+      <geom type="arrow">
+        <sp>172.35757210973694 0</sp>
+        <ep>-172.35757210973694 0</ep>
+        <t>10</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>input-output</parentTemplate>
+      </meta>
+    </object>
+    <object id="47_24309637" type="shape" x="17005.6682154559" y="-2404.933110038742" r="179.9999999999998" s="10.015098497188603" class="line5">
+      <geom type="arrow">
+        <sp>172.35757210973694 0</sp>
+        <ep>-172.35757210973694 0</ep>
+        <t>10</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>input-output</parentTemplate>
+      </meta>
+    </object>
+    <object id="48_24309637" type="shape" x="10682.542273011097" y="-2716.489249154919" r="175.8643504068145" s="10.015098497188603" class="line4">
+      <geom type="arrow">
+        <sp>231.1466169411048 -8.182375525436111</sp>
+        <ep>-231.1466169411048 -8.182375525436225</ep>
+        <b>-16.364751050872336</b>
+        <t>10</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>input-output</parentTemplate>
+      </meta>
+    </object>
+    <object id="49_24309637" type="shape" x="5879.209760113097" y="-10630.584209651894" r="-169.95143686267485" s="10.015098497188603" class="line4">
+      <geom type="arrow">
+        <sp>205.58504135753813 9.263212793853109</sp>
+        <ep>-205.58504135753813 9.26321279385305</ep>
+        <b>18.526425587706157</b>
+        <t>10</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>input-output</parentTemplate>
+      </meta>
+    </object>
+    <object id="50_24309637" type="shape" x="11207.532393582876" y="-10833.954909905187" r="-175.48521736211836" s="10.015098497188628" class="line4">
+      <geom type="arrow">
+        <sp>212.18896469971835 7.519417803217702</sp>
+        <ep>-212.18896469971835 7.519417803217597</ep>
+        <b>15.0388356064353</b>
+        <t>10</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>input-output</parentTemplate>
+      </meta>
+    </object>
+    <object id="81_24309637" type="persistentgroup" x="-1636.975471351714" y="-6152.12974855054" r="0" s="37.31318807346099">
+      <m o="24_24309637"/>
+      <m o="26_24309637"/>
+      <m o="27_24309637"/>
+      <m o="28_24309637"/>
+      <m o="29_24309637"/>
+      <m o="30_24309637"/>
+      <m o="31_24309637"/>
+      <m o="32_24309637"/>
+      <m o="33_24309637"/>
+      <m o="34_24309637"/>
+      <m o="35_24309637"/>
+      <m o="37_24309637"/>
+      <m o="38_24309637"/>
+      <m o="39_24309637"/>
+      <m o="40_24309637"/>
+      <m o="41_24309637"/>
+      <m o="42_24309637"/>
+      <m o="43_24309637"/>
+      <m o="45_24309637"/>
+      <m o="47_24309637"/>
+      <m o="48_24309637"/>
+      <m o="49_24309637"/>
+      <m o="50_24309637"/>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>input-output</parentTemplate>
+      </meta>
+    </object>
+    <object id="61_24309637" type="button" x="-35844.99891672581" y="-6180.401740180067" r="-1.7345264809973342" s="5.022512401662239" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>797.2881355932203</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>input-output</parentTemplate>
+      </meta>
+    </object>
+    <object id="62_24309637" type="text" x="-35998.5055105272" y="-7223.362634296923" r="-1.7345264809973344" s="11.014937519287685" class="head">
+      <height>31.9921875</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text color="8856395"><![CDATA[Problem definition]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="63_24309637" type="text" x="-36030.85373962017" y="-5914.586963363131" r="-1.734526480997333" s="6.991119688196379" class="body">
+      <height>248.37890625</height>
+      <width>390.9237784827681</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Tweets talk about ones personal opinion while words in tweets can make totally different sense while interpreting if semantics are unknown.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[ ]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Many lexical processing tools require clean  source input with words from dictionary. ]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="69_24309637" type="button" x="-4309.107185530947" y="-6601.178748719329" r="0" s="4.831373922395766" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>797.2881355932203</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>input-output</parentTemplate>
+      </meta>
+    </object>
+    <object id="70_24309637" type="text" x="-4315.010977218088" y="-7591.59884215334" r="-1.3184059707220728e-15" s="11.655324147508688" class="head">
+      <height>31.9921875</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text color="8856395"><![CDATA[Core Algorithm]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="75_24309637" type="button" x="-37731.84112749146" y="-11144.941795308683" r="-6.325330416225146" s="7.795744979308554" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>797.2881355932203</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>input-output</parentTemplate>
+      </meta>
+    </object>
+    <object id="76_24309637" type="text" x="-37928.16987975562" y="-13139.816960474032" r="-6.325330416225136" s="26.32930314036583" class="strong">
+      <height>31.9921875</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text color="0"><![CDATA[@BBr CnvtR]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="77_24309637" type="text" x="-37811.05243227418" y="-11014.58655512834" r="-6.325330416225144" s="9.490789552946396" class="body">
+      <height>358.76953125</height>
+      <width>507.791284169408</width>
+      <p listType="bullet" indent="1">
+        <text color="8856395"><![CDATA[Introduction]]></text>
+      </p>
+      <p listType="bullet" indent="3">
+        <text><![CDATA[Problem definition ]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="8856395"><![CDATA[Background]]></text>
+      </p>
+      <p listType="bullet" indent="3">
+        <text><![CDATA[Related work and limitation]]></text>
+      </p>
+      <p listType="bullet" indent="3">
+        <text><![CDATA[Motivation]]></text>
+      </p>
+      <p listType="bullet" indent="3">
+        <text><![CDATA[Key issues and alternative ways of resolving those  ]]></text>
+      </p>
+      <p listType="bullet" indent="3">
+        <text><![CDATA[Methodology and Approach]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="8856395"><![CDATA[Architecture]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="8856395"><![CDATA[Results]]></text>
+      </p>
+      <p listType="bullet" indent="3">
+        <text><![CDATA[Evaluation]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="8856395"><![CDATA[Conclusions]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="8856395"><![CDATA[Future work ]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="82_24309637" type="button" x="-30922.980449230152" y="-11282.09310163347" r="4.285093665088351" s="4.673903854294176" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>797.2881355932203</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>input-output</parentTemplate>
+      </meta>
+    </object>
+    <object id="83_24309637" type="text" x="-30839.155356287207" y="-12292.809293374845" r="4.285093665088348" s="8.89304057163165" class="head">
+      <height>31.9921875</height>
+      <width>333.9110373620924</width>
+      <p align="center">
+        <text color="8856395"><![CDATA[Related Work and Limitations]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="84_24309637" type="text" x="-30851.156606437424" y="-11846.26213038886" r="4.285093665088341" s="4.443597904487482" class="body">
+      <height>55.1953125</height>
+      <width>674.4936431607338</width>
+      <p>
+        <text><![CDATA[1. NoSlang online web tool converted the specified abbreviated slang to its full form. ]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="0_30863873" type="text" x="-2934.302544340551" y="9820.721319883982" r="0" s="146.46302705538076" class="head">
+      <height>31.9921875</height>
+      <width>394.9384535099843</width>
+      <p align="center">
+        <text><![CDATA[@BBr Cnvtr]]></text>
+      </p>
+    </object>
+    <object id="0_24309637" type="button" x="2968.6157556522876" y="-6602.451701282272" r="0" s="4.831373922395766" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>797.2881355932203</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>input-output</parentTemplate>
+      </meta>
+    </object>
+    <object id="0_81812623" type="image" x="2391.273343818338" y="-6392.9077784391" r="0" s="3.3289311996757305">
+      <source w="607" h="594">1760892145<url>1760892145.JPG</url></source>
+      <sourceUrl>barGraph_on_trainingSet.JPG</sourceUrl>
+    <resource><id>1760892145</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/d/4/81c85d5616be9f94703db328e11cbe3452f0b.JPG</url></resource></object>
+    <object id="1_24309637" type="text" x="2851.3862625794104" y="-7609.731216107719" r="-1.3184059707220706e-15" s="10.595749225007909" class="head">
+      <height>31.9921875</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text color="8856395"><![CDATA[Evaluation]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="4_24309637" type="button" x="32061.51770336458" y="-7399.750512959279" r="0" s="4.831373922395766" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>797.2881355932203</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>input-output</parentTemplate>
+      </meta>
+    </object>
+    <object id="7_24309637" type="button" x="-11959.508668138737" y="-6603.2425214213845" r="0" s="4.673903854294184" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>797.2881355932203</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>input-output</parentTemplate>
+      </meta>
+    </object>
+    <object id="8_24309637" type="text" x="-11968.12820400196" y="-7627.0780758045885" r="-1.977608956083111e-15" s="8.471404597363948" class="head">
+      <height>31.9921875</height>
+      <width>320.191584441238</width>
+      <p align="center">
+        <text color="8856395"><![CDATA[Data Collection]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="30" type="image" x="-11967.89205233448" y="-6629.21920484479" r="0" s="2.4922448705628235">
+      <source w="1172" h="510">1760581567<url>1760581567.jpg</url></source>
+      <sourceUrl>kpt_diagram.jpg</sourceUrl>
+    <resource><id>1760581567</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/a/e/61c06ce4d0ae5acedd0f7650efc41dbc64351.jpg</url></resource></object>
+    <object id="11_24309637" type="button" x="9700.67510170159" y="-6603.0572420793815" r="0" s="4.673903854294184" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>797.2881355932203</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>input-output</parentTemplate>
+      </meta>
+    </object>
+    <object id="31" type="image" x="9804.157332595967" y="-6603.022564387186" r="0" s="2.2613971294630306">
+      <source w="1318" h="540">1760614417<url>1760614417.jpg</url></source>
+      <sourceUrl>architecture_diag_kpt (3).jpg</sourceUrl>
+    <resource><id>1760614417</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/b/a/6/18eb8a6d4599e2e3df03a0f3403c4f6c72e56.jpg</url></resource></object>
+    <object id="1" type="text" x="-30947.430895829297" y="-11506.660392315764" r="4.285093665088341" s="4.443597904487482" class="body">
+      <height>55.1953125</height>
+      <width>642.4581074320289</width>
+      <p>
+        <text><![CDATA[2. Challenges in NLP Esoteric language and grammar Short message length Locale-specific references]]></text>
+      </p>
+    </object>
+    <object id="2" type="text" x="-30881.79948418587" y="-11033.040400462289" r="4.285093665088341" s="4.443597904487482" class="body">
+      <height>110.390625</height>
+      <width>686.142928880263</width>
+      <p>
+        <text><![CDATA[3. The paper discussed about ill-formed words by determining the phrase.  ]]></text>
+      </p>
+      <p indent="1">
+        <text><![CDATA[Eg: Categorizing the word used in sentences into prepositional phrase and verb phrase ]]></text>
+      </p>
+    </object>
+    <object id="3" type="text" x="-30506.183768433835" y="-10264.943548228695" r="4.285093665088344" s="2.759124689997252" class="body">
+      <height>193.18359375</height>
+      <width>907.0541586225528</width>
+      <p>
+        <text><![CDATA[[1] http://www.noslang.com/#]]></text>
+      </p>
+      <p>
+        <text><![CDATA[[2] http://dl.acm.org/citation.cfm?id=1835643]]></text>
+      </p>
+      <p>
+        <text><![CDATA[[3] http://delivery.acm.org/10.1145/2010000/2002520/p368-han.pdf?ip=72.225.11.162&id=2002520&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&CFID=334548630&CFTOKEN=62539564&__acm__=1399478322_ea0990d6bbb70f7cd0bb836bca8b8fa6]]></text>
+      </p>
+    </object>
+    <object id="10" type="button" x="-30356.81534717734" y="-3071.769266732703" r="4.285093665088341" s="6.543465396011851" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>797.2881355932203</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>input-output</parentTemplate>
+      </meta>
+    </object>
+    <object id="11" type="text" x="-30239.460217057196" y="-4486.771935170638" r="4.285093665088337" s="12.450256800284317" class="head">
+      <height>31.9921875</height>
+      <width>333.9110373620924</width>
+      <p align="center">
+        <text color="8856395"><![CDATA[Motivation]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="12" type="text" x="-30237.794906764677" y="-3804.429815106341" r="4.285093665088338" s="7.52745485020179" class="body">
+      <height>27.59765625</height>
+      <width>565.1347700300468</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Limitation of characters - Only 140]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="13" type="text" x="-30207.80364499402" y="-3157.9646253648943" r="4.285093665088344" s="6.843140772910713" class="body">
+      <height>55.1953125</height>
+      <width>642.4581074320289</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Organizations like USGS are currently use social data for analysis and the functionality to normalize the tweets]]></text>
+      </p>
+    </object>
+    <object id="14" type="text" x="-30359.413015519687" y="-2429.082503671031" r="4.285093665088344" s="6.843140772910713" class="body">
+      <height>55.1953125</height>
+      <width>686.142928880263</width>
+      <p listType="bullet" indent="2">
+        <text><![CDATA[The processed tweets as input to any NLP systems can help efficiently in lexical processing. ]]></text>
+      </p>
+    </object>
+    <object id="16" type="button" x="-25597.32573098076" y="-7828.936720463748" r="4.285093665088341" s="6.543465396011851" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>797.2881355932203</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>input-output</parentTemplate>
+      </meta>
+    </object>
+    <object id="17" type="text" x="-25436.38836958942" y="-9251.514365396157" r="4.285093665088337" s="11.318415272985742" class="head">
+      <height>63.984375</height>
+      <width>370.43664983393273</width>
+      <p align="center">
+        <text color="8856395"><![CDATA[Key issues and alternative ways of resolving those ]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="18" type="text" x="-25486.067046705924" y="-8458.008774232652" r="4.285093665088339" s="7.527454850201797" class="body">
+      <height>55.1953125</height>
+      <width>565.1347700300468</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Interpreting micro-blogs to identify  and normalize ill-formed words]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="19" type="text" x="-25504.953324266397" y="-7919.375990554711" r="4.2850936650883416" s="6.843140772910713" class="body">
+      <height>55.1953125</height>
+      <width>625.8843509310619</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Determining and updating the dictionary for slang words [1]]]></text>
+      </p>
+    </object>
+    <object id="21" type="text" x="-24836.56313417637" y="-6033.121365070588" r="4.285093665088345" s="6.843140772910713" class="body">
+      <height>27.59765625</height>
+      <width>-472.2421875</width>
+      <p>
+        <text><![CDATA[[1] http://www.txtdrop.com/abbreviations.php]]></text>
+      </p>
+    </object>
+    <object id="32" type="text" x="9738.223216831764" y="-7515.074981908219" r="0" s="8.587333363107545" class="head">
+      <height>31.9921875</height>
+      <width>-303.33984375</width>
+      <p>
+        <text color="8856395"><![CDATA[Methodology and Approach]]></text>
+      </p>
+    </object>
+    <object id="33" type="text" x="9738.223216831764" y="-5790.459354261925" r="0" s="5.865264232707839" class="strong">
+      <height>31.9921875</height>
+      <width>-135.1875</width>
+      <p>
+        <text><![CDATA[Architecture]]></text>
+      </p>
+    </object>
+    <object id="34" type="text" x="-11968.128204001969" y="-5895.259822299988" r="0" s="5.786083325841091" class="strong">
+      <height>31.9921875</height>
+      <width>-165.05859375</width>
+      <p>
+        <text><![CDATA[Data Collection]]></text>
+      </p>
+    </object>
+    <object id="35" type="text" x="-5295.430295065318" y="-7153.784566823069" r="0" s="5.332058393370762" class="body">
+      <height>27.59765625</height>
+      <width>-184.0546875</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Classification:]]></text>
+      </p>
+    </object>
+    <object id="38" type="text" x="-5295.276548950217" y="-6916.795452313642" r="0" s="5.332058393370762" class="head">
+      <height>31.9921875</height>
+      <width>-91.1015625</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[SMO]]></text>
+      </p>
+    </object>
+    <object id="39" type="text" x="-5349.355280804391" y="-6693.632126539887" r="0" s="5.332058393370762" class="head">
+      <height>31.9921875</height>
+      <width>-70.875</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[J48]]></text>
+      </p>
+    </object>
+    <object id="40" type="text" x="-5360.10018167498" y="-6457.952762389397" r="0" s="5.332058393370762" class="head">
+      <height>31.9921875</height>
+      <width>-75</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[IBk]]></text>
+      </p>
+    </object>
+    <object id="41" type="text" x="-5118.280874169875" y="-6239.158242464122" r="0" s="5.332058393370762" class="head">
+      <height>31.9921875</height>
+      <width>-165.890625</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Naive Bayes]]></text>
+      </p>
+    </object>
+    <object id="42" type="text" x="32040.783586959376" y="-7778.6558634397" r="0" s="13.224493379185628" class="head">
+      <height>31.9921875</height>
+      <width>-97.44140625</width>
+      <p>
+        <text><![CDATA[TNK U  !!]]></text>
+      </p>
+    </object>
+    <object id="43" type="text" x="31993.38794729502" y="-7304.58139096264" r="0" s="9.4460666994183" class="head">
+      <height>31.9921875</height>
+      <width>-42.41015625</width>
+      <p>
+        <text><![CDATA[ Q ?]]></text>
+      </p>
+    </object>
+    <object id="44" type="button" x="26525.446766821908" y="-8631.5229163228" r="0" s="4.831373922395766" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>797.2881355932203</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>input-output</parentTemplate>
+      </meta>
+    </object>
+    <object id="47" type="text" x="26647.064875576914" y="-9787.721480331602" r="0" s="9.4460666994183" class="head">
+      <height>31.9921875</height>
+      <width>314.133771712263</width>
+      <p indent="2">
+        <text color="8856395"><![CDATA[Conclusion ]]></text>
+      </p>
+    </object>
+    <object id="1_81812623" type="image" x="4130.015030928714" y="-6734.237296101598" r="0" s="2.1134144528424197">
+      <source w="420" h="624">1760922319<url>1760922319.JPG</url></source>
+      <sourceUrl>tweets_train.JPG</sourceUrl>
+    <resource><id>1760922319</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/4/8/4a36455518ed8989a75278a3655a84928bfd1.JPG</url></resource></object>
+    <object id="2_81812623" type="image" x="4130.015030928714" y="-5692.365403101519" r="0" s="2.680439740304565">
+      <source w="453" h="148">1762222081<url>1762222081.JPG</url></source>
+      <sourceUrl>KPT_Compare_Algo.JPG</sourceUrl>
+    <resource><id>1762222081</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/0/5/3/e55f66457606e719aabd5a7332870d9bd625d.JPG</url></resource></object>
+    <object id="3_81812623" type="button" x="15318.528940833365" y="-6600.600991482022" r="0" s="3.9345776145200313" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>799.219892735251</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="4_81812623" type="text" x="14713.36267862614" y="-7169.820635229108" r="0" s="4.869290228720689" class="body">
+      <height>27.59765625</height>
+      <width>-253.453125</width>
+      <p>
+        <text color="8856395"><![CDATA[Abbreviation Dictionary:]]></text>
+      </p>
+    </object>
+    <object id="5_81812623" type="text" x="15482.90696635846" y="-6940.520294240354" r="0" s="4.4266274806551715" class="body">
+      <height>55.1953125</height>
+      <width>552</width>
+      <p>
+        <text><![CDATA[Manually created Abbreviation Dictionary and saved it as a <key,value> pair.]]></text>
+      </p>
+    </object>
+    <object id="6_81812623" type="image" x="15327.167145020318" y="-6184.057555289048" r="0" s="2.053484147972404">
+      <source w="915" h="577">1762249069<url>1762249069.PNG</url></source>
+      <sourceUrl>abbrDict.PNG</sourceUrl>
+    <resource><id>1762249069</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/0/1/d054ec16385321e6f0ba951d3cf6ff947ea84.PNG</url></resource></object>
+    <object id="7_81812623" type="text" x="15327.167145020318" y="-7418.453061333672" r="0" s="8.03162656121316" class="head">
+      <height>31.9921875</height>
+      <width>-138.22265625</width>
+      <p>
+        <text><![CDATA[@BBr CnvtR]]></text>
+      </p>
+    </object>
+    <object id="1_48641771" type="button" x="-16232.053421987075" y="-6605.674426476056" r="0" s="4.673903854294183" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>797.2881355932203</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>input-output</parentTemplate>
+      </meta>
+    </object>
+    <object id="2_48641771" type="text" x="-16240.672957850302" y="-7629.509980859261" r="-1.977608956083111e-15" s="8.471404597363948" class="head">
+      <height>31.9921875</height>
+      <width>320.191584441238</width>
+      <p align="center">
+        <text color="8856395"><![CDATA[Methodology and Approach]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="11_48641771" type="button" x="-20573.618441331862" y="-6601.770670020483" r="0" s="4.673903854294183" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>797.2881355932203</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>input-output</parentTemplate>
+      </meta>
+    </object>
+    <object id="5_48641771" type="button" x="29445.548781271576" y="-2868.272063880103" r="0" s="4.831373922395766" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>797.2881355932203</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>input-output</parentTemplate>
+      </meta>
+    </object>
+    <object id="6_48641771" type="text" x="29567.166890026583" y="-4024.4706278889053" r="0" s="9.4460666994183" class="head">
+      <height>31.9921875</height>
+      <width>314.133771712263</width>
+      <p indent="2">
+        <text color="8856395"><![CDATA[Future Work]]></text>
+      </p>
+    </object>
+    <object id="8_48641771" type="text" x="29405.533095404753" y="-3394.287702210598" r="0" s="6.3647628147078" class="body">
+      <height>82.79296875</height>
+      <width>477.1171875</width>
+      <p>
+        <text><![CDATA[We plan to demo the system to United States Geological Survey as they have similar requirement for their sub-systems. ]]></text>
+      </p>
+    </object>
+    <object id="9_48641771" type="text" x="29571.335166727906" y="-2730.1644822634303" r="0" s="6.3647628147078" class="body">
+      <height>55.1953125</height>
+      <width>529.21875</width>
+      <p>
+        <text><![CDATA[We also plan to enhance the website and make it available online  ]]></text>
+      </p>
+    </object>
+    <object id="10_48641771" type="text" x="26522.294973218755" y="-9013.118437880612" r="0" s="6.3647628147078" class="body">
+      <height>137.98828125</height>
+      <width>476.2265625</width>
+      <p>
+        <text><![CDATA[With the classification accuracy obtained we can safely conclude that maximum tweets obtained from the Twitter REST API can be classified to the correct class "Yes"/"No" resulting in optimal accuracy. ]]></text>
+      </p>
+    </object>
+    <object id="12_48641771" type="text" x="-20582.237977195095" y="-7490.063750845867" r="-1.977608956083111e-15" s="8.471404597363948" class="head">
+      <height>63.984375</height>
+      <width>320.191584441238</width>
+      <p align="center">
+        <text color="8856395"><![CDATA[Tools and Technnology]]></text>
+      </p>
+      <p align="center">
+        <text color="8856395"><![CDATA[]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="14_48641771" type="text" x="-16336.038918834594" y="-6499.496887541645" r="0" s="5.7860833258410915" class="strong">
+      <height>159.9609375</height>
+      <width>-201.05859375</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Data Collection]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Classification]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Evaluation]]></text>
+      </p>
+    </object>
+    <object id="15_48641771" type="text" x="-20796.862497057748" y="-6479.892920825254" r="0" s="6.3647628147078015" class="body">
+      <height>220.78125</height>
+      <width>353.61134433869745</width>
+      <p>
+        <text><![CDATA[Twitter REST API]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Weka API]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Tableau]]></text>
+      </p>
+      <p>
+        <text><![CDATA[PHP]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Java]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Spring ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="0_48641771" type="button" x="24161.00066730884" y="-5001.78005354799" r="0" s="4.831373922395765" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>797.2881355932203</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>input-output</parentTemplate>
+      </meta>
+    </object>
+    <object id="3_48641771" type="text" x="24282.61877606384" y="-6157.9786175567915" r="0" s="9.446066699418298" class="head">
+      <height>31.9921875</height>
+      <width>314.133771712263</width>
+      <p indent="2">
+        <text color="8856395"><![CDATA[Limitations]]></text>
+      </p>
+    </object>
+    <object id="4_48641771" type="text" x="24095.6988737057" y="-5069.524394576902" r="0" s="6.364762814707799" class="body">
+      <height>220.78125</height>
+      <width>476.2265625</width>
+      <p>
+        <text><![CDATA[1. Multilingual text are not handled by the @aBBR cnvtr]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[2. Currently the biased slang word are not handled :]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Eg:]]></text>
+      </p>
+      <p>
+        <text><![CDATA[LOL: can mean Laughing out Loud]]></text>
+      </p>
+      <p>
+        <text><![CDATA[LOL: Lots of Love]]></text>
+      </p>
+    </object>
+    <object id="8_81812623" type="button" x="0" y="0" r="0" s="81.00404592914423" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1206.896551724138</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="9_81812623" type="button" x="0" y="0" r="0" s="81.00404592914423" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1206.896551724138</w>
+        <h>600</h>
+      </size>
+    </object>
+  </zui-table>
+  <background>
+    <layer depth="8.973812530040405" fadescale="0.24515778468018595">
+      <object id="background1118266183" type="image" x="1302.0074047637988" y="-6623.69669917653" r="0" s="15.714728658206113">
+        <source w="3025" h="1638">1118266183<url>1118266183.png</url></source>
+        <sourceUrl>FINAL_postrender.png</sourceUrl>
+      <resource><id>1118266183</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/4/5/3475af2709419d235871597c246eee911ff85.png</url></resource></object>
+    </layer>
+  </background>
+  <path>
+    <s>
+      <eagle o="0"/>
+    </s>
+    <s>
+      <eagle o="75_24309637"/>
+    </s>
+    <s>
+      <eagle o="61_24309637"/>
+    </s>
+    <s>
+      <eagle o="82_24309637"/>
+    </s>
+    <s>
+      <eagle o="10"/>
+    </s>
+    <s>
+      <eagle o="16"/>
+    </s>
+    <s>
+      <eagle o="11_48641771"/>
+    </s>
+    <s>
+      <eagle o="8_81812623"/>
+    </s>
+    <s>
+      <eagle o="1_48641771"/>
+    </s>
+    <s>
+      <eagle o="7_24309637"/>
+    </s>
+    <s>
+      <eagle o="69_24309637"/>
+    </s>
+    <s>
+      <eagle o="0_24309637"/>
+    </s>
+    <s>
+      <eagle o="11_24309637"/>
+    </s>
+    <s>
+      <eagle o="3_81812623"/>
+    </s>
+    <s>
+      <eagle o="9_81812623"/>
+    </s>
+    <s>
+      <eagle o="0_48641771"/>
+    </s>
+    <s>
+      <eagle o="44"/>
+    </s>
+    <s>
+      <eagle o="5_48641771"/>
+    </s>
+    <s>
+      <eagle o="4_24309637"/>
+    </s>
+    <s>
+      <eagle o="0"/>
+    </s>
+  </path>
+  <style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('Arimo-Regular.keg');
+	fontFamily: body;
+	font-class: body;
+	font-style: normal;
+	font-weight: normal;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('PlayfairDisplay-Bold.keg');
+	fontFamily: head;
+	font-class: head;
+	font-style: normal;
+	font-weight: bold;
+	font-family: PlayfairDisplay;
+}
+
+@font-face
+{
+	src: url('PlayfairDisplay-Regular.keg');
+	fontFamily: strong;
+	font-class: strong;
+	font-style: normal;
+	font-weight: normal;
+	font-family: PlayfairDisplay;
+}
+
+@font-face
+{
+	src: url('Arimo-Bold.keg');
+	font-style: normal;
+	font-weight: bold;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Arimo-Italic.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Arimo-BoldItalic.keg');
+	font-style: italic;
+	font-weight: bold;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('PlayfairDisplay-Italic.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: PlayfairDisplay;
+}
+
+@font-face
+{
+	src: url('PlayfairDisplay-BoldItalic.keg');
+	font-style: italic;
+	font-weight: bold;
+	font-family: PlayfairDisplay;
+}
+
+.line1
+{
+	borderAlpha: 0;
+	borderColor: #4e2a9f;
+	color: #4e2a9f;
+	gradEndAlpha: 1;
+	gradEndColor: #4e2a9f;
+	gradStartColor: #4e2a9f;
+}
+
+.line2
+{
+	borderColor: #9a1478;
+	color: #9a1478;
+	gradEndAlpha: 1;
+	gradEndColor: #9a1478;
+	gradStartColor: #9a1478;
+}
+
+.line3
+{
+	borderColor: #9a2b58;
+	color: #9a2b58;
+	gradEndAlpha: 1;
+	gradEndColor: #9a2b58;
+	gradStartColor: #9a2b58;
+}
+
+.line4
+{
+	borderAlpha: 0;
+	borderColor: #c83650;
+	color: #c83650;
+	gradEndAlpha: 1;
+	gradEndColor: #c83650;
+	gradStartColor: #c83650;
+}
+
+.line5
+{
+	borderAlpha: 0;
+	borderColor: #fe3601;
+	color: #fe3601;
+	gradEndAlpha: 1;
+	gradEndColor: #fe3601;
+	gradStartAlpha: 1;
+	gradStartColor: #fe3601;
+}
+
+.poly1
+{
+	borderColor: #4e2a9f;
+	borderThickness: 0;
+	color: #e1d2c8;
+	gradEndColor: #4e2a9f;
+	gradStartColor: #4e2a9f;
+}
+
+.poly2
+{
+	borderColor: #9a1478;
+	borderThickness: 0;
+	color: #e1d2c8;
+	gradEndColor: #9a1478;
+	gradStartColor: #9a1478;
+}
+
+.poly3
+{
+	borderAlpha: 0;
+	borderColor: #9a2b58;
+	borderThickness: 0;
+	color: #e1d2c8;
+	gradEndColor: #9a2b58;
+	gradStartColor: #9a2b58;
+}
+
+.poly4
+{
+	borderColor: #c83650;
+	borderThickness: 0;
+	color: #e1d2c8;
+	gradEndColor: #c83650;
+	gradStartColor: #c83650;
+}
+
+.poly5
+{
+	borderColor: #fe3601;
+	borderThickness: 0;
+	color: #e1d2c8;
+	gradEndColor: #fe3601;
+	gradStartColor: #fe3601;
+}
+
+Background
+{
+	gradEnd: #e1d2c8;
+	gradStart: #e1d2c8;
+}
+
+Grid
+{
+	color: #a89c95;
+}
+
+ZArrow
+{
+	borderAlpha: 0;
+	borderColor: #fff;
+	borderThickness: 1;
+	gradEndAlpha: 0;
+	gradEndColor: #fff;
+	gradStartAlpha: 1;
+	gradStartColor: #fff;
+	thickness: 10;
+}
+
+ZCircle
+{
+	borderAlpha: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+ZCurveLine
+{
+	color: #fff;
+}
+
+ZFrame.bracket
+{
+	borderAlpha: 0;
+	borderColor: #000;
+	borderThickness: 0;
+	gradEndAlpha: 0.4;
+	gradEndColor: #000;
+	gradStartAlpha: 0.4;
+	gradStartColor: #000;
+	padding: 1.03;
+	thickness: 8;
+}
+
+ZFrame.circle
+{
+	borderAlpha: 0;
+	borderColor: #000;
+	borderThickness: 0;
+	gradEndAlpha: 0.4;
+	gradEndColor: #000;
+	gradStartAlpha: 0.4;
+	gradStartColor: #000;
+	padding: 1.03;
+	thickness: 8;
+}
+
+ZFrame.roundrect
+{
+	borderAlpha: 0;
+	borderColor: #fff;
+	borderThickness: 0;
+	gradEndAlpha: 0.5;
+	gradEndColor: #fff;
+	gradStartAlpha: 0.5;
+	gradStartColor: #fff;
+	padding: 1.03;
+	radius: 1;
+	thickness: 3;
+}
+
+ZLabel
+{
+	lockTintAlpha: 0.15;
+	padding: 1.2;
+}
+
+ZLabel.body
+{
+	color: #141414;
+	fontFamily: body;
+}
+
+ZLabel.body-background
+{
+	background-alpha: 0.9;
+	background-color: #ddd;
+	background-padding: 10;
+}
+
+ZLabel.head
+{
+	color: #141414;
+	fontFamily: head;
+}
+
+ZLabel.head-background
+{
+	background-alpha: 1;
+	background-color: #fff;
+	background-padding: 6;
+}
+
+ZLabel.strong
+{
+	color: #141414;
+	fontFamily: strong;
+}
+
+ZLabel.strong-background
+{
+	background-alpha: 0.8;
+	background-color: #fff;
+	background-padding: 8;
+}
+
+ZLine
+{
+	color: #fff;
+}
+
+ZMarker
+{
+	alpha: 0.6;
+	color: #fe3601;
+}
+
+ZPath
+{
+	alpha: 1;
+	color: #40abe6;
+	textColor: #fff;
+	thickness: 3;
+}
+
+ZPath Ball.base
+{
+	alpha: 1;
+	fillColor: #40abe6;
+	radius: 12;
+}
+
+ZPath Ball.mid
+{
+	alpha: .5;
+	fillColor: #40abe6;
+	radius: 8;
+}
+
+ZPoly
+{
+	borderAlpha: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+]]></style>
+  <hash>73a4e2f2</hash>
+<sync><oid>t6ofytupbtwo</oid><title>bbr-cnvtr</title><hash>73a4e2f2</hash></sync><config>J5RetSVvjsqpuv181ERpLgmqH0uudl+3bWbkVpXk5kgszhW299bPgM6sL+RUH2lwhS9GVNPTskcsvLdEoRX10dj/K/pJpls6r/yJYB1AsScTZivgg05v78NDLUKWkb4mMJLPAySjXWsHNsCoeVNEBfPwd1FOOrgMQIgaA7tMqLBt/VAH5qzB5urLsPTjhPNBhyzis2Icma4+Ej/QnFvAjcvGiMHxgx5gClOvzmr+YqvaYIFuwRbRLTrzjFXB07L45whMufDq/rkJzNalkiFluAP22Mm+6EMj/Dwd5d5DlJCzRyEqFg9cwR0ETow8WiwML7/rJtav3r92h/hD/BsvPw==</config></zuiprezi>

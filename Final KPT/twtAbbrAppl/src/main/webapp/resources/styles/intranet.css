@@ -1,0 +1,953 @@
+/*
+AT&T Intranet Template 2.0
+*/
+
+/* page and body settings */
+
+            html {
+              padding : 0;
+              margin : 0;
+            }
+
+            body {
+              align:center;
+              text-align: left;
+              padding: 0;
+              margin : 0;
+              background-color :white;
+              font: 55%  Verdana, Arial, Helvetica, sans-serif;
+              /* this sets default font-size of 1em = 10px */
+              /* for font size changes, style elements one time using ems */
+            }
+            
+            .headerSection { /*    width: 960px;     */
+				height: 63px;
+				background: url(../images/banner_sqm.jpg) top right no-repeat;
+				border-bottom: 1px solid rgb(120, 176, 209);
+			}
+			.attLogo {
+				width: 100px;
+				height: 63px;
+				background: url(../images/logo_att.jpg) top left no-repeat;
+				margin-left: 10px;
+			}
+			.clearLeftRightSpace {
+				clear: both;
+			}
+			
+			/*  Footer  */
+			.footerSection {
+				width: 960px;
+				padding: 10px;
+				font-family: calibri;
+				font-size: 11px;
+				font-weight: normal;
+				color: rgb(101, 101, 101);
+				background: url(../images/bg_footer.png) repeat-x;
+			}
+            
+ /** Default form:input **/
+ 
+ 	form:input{font-size: 11px; font-family: Verdana, arial; color: #000000; cursor: pointer; text-align : center; vertical-align : middle;}
+
+/* begin default styling of elements */
+
+            div {
+              margin : 0;
+              padding : 0;
+            }
+
+            p {
+              margin : 0px 0px 12px 0px;
+              padding : 0;
+            }
+
+            span {
+              margin : 0;
+              padding : 0;
+            }
+
+            img {
+              border: none;
+              padding : 0;
+              margin : 0;
+              background-color : none;
+            }
+
+            a img {
+              border : none;
+            }
+
+
+            hr {
+              background: #cdcfd0;
+              border: 0;
+              color: #cdcfd0;
+              height: 1px;
+              margin: 0 0 10px 0;
+            }
+
+/* default lists, blockquotes, and tables and other specialized elements */
+
+/* font-sizes and line-heights below are common across entire document */
+/* for elements with font-sizes or line-heights that change during document, */
+/* remove font-size and line-height settings from here and style explicitly below */
+
+            ul {
+              margin : 0 0 12px 5px;
+              padding : 0 0 0 0px;
+              list-style-type : square;
+              color : black;
+              list-style-position: inside;
+            }
+
+            li {
+              margin : 0 0 4px 5px;
+              padding : 0;
+            }
+
+            li ul {                             /* for lists inside lists */
+              margin-top : 5px;
+              margin-left : 15px;
+              list-style : disc;
+            }
+
+            blockquote {
+              border-top : 4px solid #067ab4;
+              margin: 0 0 12px 0;
+              padding: 10px 15px 10px 15px;
+              background: #e8e8e8;
+              font-size : 1.2em;
+              line-height : 1.3em;
+              color : black !important;
+              }
+
+/* forms */
+
+            form {
+              padding : 0;
+              margin : 0;
+            }
+
+            fieldset {
+              margin : 0;
+              padding : 0;
+              border : none;
+            }
+
+           label {
+              margin : 0;
+              padding : 0;
+            }
+
+            input {
+              margin : 0 0 5px 0;
+              padding :0 2px 0 0;
+              vertical-align : middle;
+            }
+
+            input.button {
+              font-weight : bold;
+              color : #666666;
+              font-size : 1.2em;
+              padding : 1px 3px 1px 3px;
+              vertical-align : top;
+             }
+
+            input.input-box {
+              vertical-align : middle;
+              padding : 1px;
+            }
+
+            .radio-button {
+              margin-right : 3px;
+              vertical-align : middle;
+            }
+
+            select {
+              margin : 0;
+              padding : 0;
+               vertical-align : middle;
+            }
+
+/* default table (invisible) */
+
+            table {
+              padding : 0;
+              margin : 0 0 12px 0;
+              border-collapse : collapse;
+              clear : both;                     /* for clearing floated images */
+              font-size : 11px;
+            }
+
+/* default headers */
+
+            h1, h2, h3, h4, h5, h6 {
+              margin : 0;
+              padding : 0;
+              margin-bottom : 5px;
+              font-weight : bold;
+            }
+
+            /* font sizes here are global for the entire document; */
+            /* for headers that change size, remove here and size below in each container */
+
+            h1 {
+              font-size : 3.0em;
+              font-weight : normal;
+              color : #067ab4;
+            }
+
+            h2 {
+              font-size : 2.2em;
+              font-weight : normal;
+              color : #067ab4;
+              margin-left : -1px;              /* to fix 1px header variance */
+              border-color :  #067ab4;
+            }
+
+            h3 {
+              font-size : 1.8em;
+              font-weight : normal;
+              color : #067ab4;
+              border-color : #067ab4;
+              clear: left;
+            }
+
+            h4 {
+              font-size : 1.4em;
+            }
+
+            h5 {
+              font-size : 1.3em;
+            }
+
+            h6 {
+              font-size : 1.1em;
+              letter-spacing : .5px;
+              color : #666666;
+              font-weight : bold;
+              margin-bottom : 0;
+            }
+
+            h2.underline {
+              border-bottom : 4px solid;
+              padding-bottom : 2px;
+            }
+
+            h3.underline {
+              border-bottom : 4px solid;
+              padding-bottom : 2px;
+            }
+
+            small {
+              font-size : 85%;
+              color : #666666;
+            }
+
+            district {
+              font-size : 85%;
+              color : #666666;
+            }
+
+/* default links */
+
+            a:link    { color: #067ab4; text-decoration: underline; font-weight : normal; }
+            a:visited { color: #067ab4; text-decoration: underline; font-weight : normal; }
+            a:hover   { color: #003366; text-decoration: underline; font-weight : normal; }
+            a:active  { color: #067ab4; text-decoration: underline; font-weight : normal; }
+
+            a img     { border : 0; }
+            
+		.btnMed {
+			font-size: 11px;
+			font-family: Verdana, arial;
+			color: #000000;
+			font-weight: bolder;
+			background-color: #FFFFFF;
+			width: 80;
+			height: 25;
+			cursor: pointer;
+			text-align : center;
+			vertical-align : middle;
+		}
+
+		.btnMedHighlight {
+			font-size: 11px;
+			font-family: Verdana, arial;
+			color: #000000;
+			font-weight: bolder;
+			background-color: #F08080;
+			width: 80;
+			height: 25;
+			cursor: pointer;
+			margin : 2px 2px 2px 2px;
+			text-align : center;
+			vertical-align : middle;
+		}
+		.btnMedDisabled {
+			font-size:   11px;
+			font-family: Verdana, arial;
+			color: #000000;
+			font-weight: bolder;
+			background-color: #FFFFFF;
+			width: 80;
+			height: 25;
+			cursor: pointer;
+			margin : 2px 2px 2px 2px;
+			text-align : center;
+			vertical-align : middle;
+		}
+		/* begin page layout */
+/*
+            #page-wrapper {
+              margin: 0 auto 0 auto;
+              padding : 0;
+              text-align: left;
+              width: 768px;
+              border-left : solid 1px #cdcfd0;
+              border-right : solid 1px #cdcfd0;
+              border-bottom : solid 1px #cdcfd0;
+            }
+*/            
+            #page-wrapper {
+			  position: absolute;
+			  top: 0;
+			  left: 50%;
+			  margin-left: -480px;			  
+              width: 960px;
+              text-align: left;
+            }
+
+/* header */
+
+            #header {
+              position : relative;             /* makes #header the parent element for absolute positioned nav-bar */
+              margin : 0px;
+              padding : 0;
+              height : 101px;
+              background-color:white;
+              background-position: top left;
+              background-repeat: no-repeat;
+              z-index: 3;
+            }
+
+            #header #title {
+              margin : 0;
+              padding : 0;
+              position : absolute;
+              right : 0;
+              top : 0;
+              /* this uses absolute positioning to drop header title graphic */
+              /* on top of generic header background */
+            }
+
+/* header nav-bar */
+
+            #header .nav-bar {
+              position : absolute;             /* relative to container element #header */
+              bottom : 0;                      /* positions at bottom of container element #header */
+              list-style-type : none;
+              margin : 0 0 0 0;
+              padding : 0 5px 5px 5px;
+              text-align : left;
+
+            }
+
+			#header .nav-bar li {
+              margin : 0 5px 0 5px;
+              padding : 0;
+              color : #838383;
+              font-size : 1.2em;
+              font-weight : bold;
+              float : left;
+              position: relative;
+            }
+
+            #header .nav-bar li a {
+              color: #838383;
+              text-decoration: none;
+              float: left;
+              display: block;
+              padding-top: 2px;
+			  padding-bottom: 2px;
+			  padding-left: 2px;
+			  padding-right: 2px;
+            }
+
+            #header .nav-bar li a:link     { color: #838383; text-decoration: none; font-weight: bold; }
+            #header .nav-bar li a:visited  { color: #838383; text-decoration: none; font-weight: bold; }
+            #header .nav-bar li a:hover    { color: black; text-decoration: underline; font-weight: bold; }
+            #header .nav-bar li a:active   { color: #838383; text-decoration: none; font-weight: bold; }
+
+            #header .nav-bar li.current a  { color : black !important; }
+
+ 			#header .nav-bar li ul {
+				display: none;
+				position: absolute;
+				padding-top: 1em;
+				float: left;
+			}
+
+			#header .nav-bar li ul ul {
+				margin: -1.85em 0 0 10em;
+			}
+			#header .nav-bar li ul ul ul {
+				margin: -1.85em 0 0 10em;
+			}
+			#header .nav-bar li ul ul ul ul {
+				margin: -1.85em 0 0 1.6em;
+			}
+			#header .nav-bar li:hover ul ul ul,
+			#header .nav-bar li.over ul ul ul {
+			    display: none;
+				position: absolute;
+				padding-top: 0em;
+				float: right;
+			}
+
+			#header .nav-bar li:hover ul ul ul ul,
+			#header .nav-bar li.over ul ul ul ul {
+			    display: none;
+				position: absolute;
+				padding-top: 0em;
+				float: right;
+			}
+			
+			#header .nav-bar li:hover ul ul,
+			#header .nav-bar li.over ul ul {
+			    display: none;
+				position: absolute;
+				padding-top: 0em;
+				float: right;
+			}
+
+			#header .nav-bar li li li li:hover ul, 
+			#header .nav-bar li li li li.over ul { 
+				 display: block; }
+				 
+			#header .nav-bar li li li:hover ul, 
+			#header .nav-bar li li li.over ul { 
+				 display: block; }
+
+			#header .nav-bar li li:hover ul, 
+			#header .nav-bar li li.over ul { 
+				 display: block; } 
+
+			#header .nav-bar li > ul {
+				top: auto;
+				left: auto;
+				}
+
+			#header .nav-bar li:hover ul,
+			#header .nav-bar li.over ul
+			{
+				display: block;
+			}
+			
+			#header .nav-bar li:hover,#header .nav-bar li.over {
+				background-color: #B0C4DE !important;
+				color: #000000;
+			}  /*change background color when mouse is over*/
+			#header .nav-bar li a:hover {
+				color: #000000;
+				background-color: #B0C4DE !important;
+			} /*  change text color when mouse is over*/
+			#header .nav-bar li.menubar {
+				width: 60px;
+			}
+			#header .nav-bar li li.menubar {
+				width: 80px;
+			}
+			#header .nav-bar li li li.menubar {
+				width: 90px;
+			}
+			#header .nav-bar li.mbsmall {
+				width: 135px;
+			}
+			#header .nav-bar li li.mbsmall,
+			#header .nav-bar li li.mbsmall a {
+				width: 135px;
+				border: 1px solid #ccc;
+				background-color: #ffffff !important;
+			}
+			#header .nav-bar li li, 
+			#header .nav-bar li li a, 
+			#header .nav-bar li li li a {
+				width: 200px;
+				border: 1px solid #ccc;
+				background-color: #ffffff !important;
+			}
+
+            #banner {
+              text-align : center;
+            }
+
+/* begin column layout */
+
+            #column-wrapper {
+              width : 768px;
+              margin : 10px 0 0 0;
+              padding : 0;
+            }
+
+/* begin column "inner" containers */
+
+/* this is a container forming the body of each column */
+/* settings here are common across all columns */
+
+            .inner {
+              margin : 10px 15px 15px 15px;
+              padding : 0;
+            }
+
+/* font-sizes and line-heights below are common across all columns */
+/* for elements with font-sizes that are different for each column, */
+/* remove here and size explicitly within column section */
+
+           .inner p {
+              font-size : 1.3em;
+              line-height : 1.3em;
+           }
+
+           .inner li {
+             font-size : 1.3em;
+             line-height : 1.3em;
+           }
+
+           .inner li li {
+             font-size : .9em;
+           }
+
+/* content column */
+
+            #content {
+              float : left;
+              display : inline;
+              padding : 0;
+              margin : 0;
+            }
+
+/* footer */
+
+            #footer-wrapper {
+              clear: both;                  /* clears left column and content floats */
+            }
+
+            #footer {
+              width: 960px
+             /* background-color : #ff7200;*/
+              color : white;
+              padding : 5px 10px 5px 0px;
+              font-size : 1em;
+            }
+
+            #footer a:link      { color: white; text-decoration: none; }
+            #footer a:visited   { color: white; text-decoration: none; }
+            #footer a:hover     { color: white; text-decoration: underline; }
+            #footer a:active    { color: white; text-decoration: none; }
+
+            #footer .nav-bar {
+              padding : 0;
+              margin : 0;
+            }
+
+            #footer .nav-bar li {
+              margin : 0;
+              padding : 0;
+              display : inline;
+              border-right : 1px solid white;
+              float : left;                 /* removes extra margins in inline lists */
+              font-size : 1.1em;
+            }
+
+            #footer .nav-bar li a {
+              margin : 0;
+              padding : 0 10px 0 10px;      /* sets space between footer nav-bar links */
+              display : block;              /* expands nav-bar links to edges of list items */
+              float : left;                 /* removes extra margins in inline lists */
+            }
+
+            #footer p {
+              font-size : 1.1em;
+              margin-left : 5px;
+            }
+
+            #footer .text {
+              margin : 0;
+              padding : 0;
+              text-align : right;
+            }
+
+
+/* specialized page components (not used in every page) */
+
+/* re-usable visible table style, 1px gray border */
+
+            .table-style {
+              background-color : white;
+              color : black;
+              padding : 0;
+              margin : 0 0 13px 0;
+              border-collapse : collapse;
+              width : 100%;
+              clear : both;                                 /* for clearing floated images */
+            }
+
+            .table-style th, .table-style td {
+              background-color : white;
+              margin : 0;
+              border : 1px solid #cdcfd0;
+              padding : 3px;
+              color : #666666;
+            }
+
+            .table-style th h5 {
+              margin-bottom : 0;
+            }
+
+/* table style for 2 columns in content area */
+
+            .two-columns {
+              width : 100%;
+              margin-bottom : 0px;
+            }
+
+            .two-columns td {
+              background-color : white;
+              margin : 0;
+              border : none;
+              padding : 0px;
+              color : black;
+              vertical-align: top;
+            }
+
+            .two-columns .column-padding {
+              padding-right : 20px;
+            }
+
+/* "nav-quadrant" landing page navigation grid */
+
+            #content .nav-quadrant {
+              margin-top : 18px;
+              width : 640px;
+              clear : left;
+			  float: left;
+			  display: inline;
+            }
+
+            #content .nav-quadrant dl {
+              margin : 0 40px 30px 0;
+              width : 240px;
+              float : left;
+              display : inline;                             /* IE fix for double margin bug */
+            }
+
+            #content .nav-quadrant dt {
+              font-size : 1.8em;
+              margin: 0 0 3px 0;
+              padding: 0;
+              font-weight : normal;
+            }
+
+            #content .nav-quadrant dd {
+              margin : 0;
+              padding : 0;
+            }
+
+            #content .nav-quadrant dd.caption {
+              color : #666666;
+              font-size : 1.1em;
+              margin : 10px 0px 0px 5px;
+            }
+
+            #content .nav-quadrant a {                          /* removes nav-quadrant title hover */
+              text-decoration : none;
+            }
+
+            #content .nav-quadrant dd.caption a:hover { text-decoration : underline; }
+
+            #content .nav-quadrant .green dt a    { color: #6dbb44; }     /* sets nav-quadrant title color */
+            #content .nav-quadrant .red dt a      { color: #b30a3c; }
+            #content .nav-quadrant .purple dt a   { color: #810a7e; }
+            #content .nav-quadrant .orange dt a   { color: #ff850d; }
+            #content .nav-quadrant .navy dt a     { color: #0c2577; }
+
+/* sidebar column "navigation lists" */
+
+            .inner .nav-list {
+              list-style-type : none;
+              margin : 0 0 13px 0;
+              padding : 0;
+              list-style-position : outside;
+            }
+
+            .inner .nav-list li {
+              list-style-type : none;
+              background-image : none;
+              list-style-image: none;
+              font-size : 1.2em;
+              color : #838383;
+              text-align : left;
+              border-bottom : #cdcfd0 solid 1px;
+              margin : 0;
+              padding : 0;
+            }
+
+            .inner .nav-list li a {
+              margin : 0;
+              padding : 5px 0 5px 0;
+              display : block;
+            }
+
+            .inner .nav-list li a:link    { color: #666666; text-decoration: none; font-weight : normal; }
+            .inner .nav-list li a:visited { color: #666666; text-decoration: none; font-weight : normal; }
+            .inner .nav-list li a:hover   { color: black; text-decoration: underline; font-weight : normal; }
+            .inner .nav-list li a:active  { color: #666666; text-decoration: none; font-weight : normal; }
+
+            .inner .nav-list li.current a { color: black; font-weight: bold !important;}
+
+             /* nav-list third-tier navigation */
+
+            .inner .nav-list .submenu {
+              margin-top : -5px;
+              margin-left : 0px;
+              padding-left : 0;
+              list-style-type : square;
+              list-style-position: inside;
+              margin-bottom : 5px;
+            }
+
+            .inner .nav-list .submenu li {
+              list-style-type : square;
+              border : none;
+              padding : 2px 5px 2px 5px;
+              color : #666666;
+              margin-left : 0;
+            }
+
+            .inner .nav-list .submenu li.submenu-current {
+              background-color : #e8e8e8;
+              color : #ff7200;
+            }
+
+            .inner .nav-list .submenu li.submenu-current a {
+              color : #ff7200;
+            }
+
+            .inner .nav-list .submenu li a {
+              margin : 0;
+              padding : 0;
+              display : inline;
+              color : #666666;
+              font-weight : normal !important;
+            }
+
+/* feature - gives the element some vertical breathing room */
+
+            .inner .feature {
+              margin-top : 20px;
+              margin-bottom : 25px;
+            }
+
+/* sidebar panel, for search and other administration features */
+
+            .sidebar-panel {
+               background-color : #e8e8e8;
+               padding : 5px 5px 5px 5px !important;
+               color : #666666;
+               margin : 10px 5px 10px 5px;
+              }
+
+            .sidebar-panel h5 {
+              background-color : #999999;
+              color : white;
+              padding : 2px 5px 2px 5px;
+              font-weight : bold;
+            }
+
+            .sidebar-panel h6 {
+              margin-bottom : 0;
+            }
+
+            .sidebar-panel p {
+              margin : 0 9px 10px 5px;
+            }
+
+            .sidebar-panel form {
+              margin-left : 5px;
+            }
+
+            .sidebar-panel ul {
+              margin-left : 3px;
+            }
+
+            .sidebar-panel li {
+              color : #067ab4;
+            }
+
+/* reusable utility code */
+
+            .left       { float: left; }
+            img.left    { margin: 0 10px 10px 0; }
+
+            .right      { float: right; }
+            img.right   { margin: 0 0 10px 10px; }
+
+            .center     { text-align: center; }
+            /* this is for using on a block-level container element */
+            /* and will center contents inside the container */
+
+            .centered   { display: block; margin: 0 auto 10px auto; }
+            /* this is for using on an inline element, such as an image */
+            /* and will turn the element block, and center the element within its container */
+
+            .indent     { display:block; margin-left: 20px !important; }
+
+            .hidden     { display: none; }
+
+            .top-border { border-top : 4px solid #067ab4; }
+
+            .no-border  { border: none !important; }
+
+            .clear      { clear: both; }
+
+/* utility colors */
+
+            .green          { color : #6ebb0d !important; border-color : #6ebb0d !important; }
+            .red            { color : #b30a3c !important; border-color : #b30a3c !important; }
+            .purple         { color : #810a7e !important; border-color : #810a7e !important; }
+            .navy           { color : #0c2577 !important; border-color : #0c2577 !important; }
+            .orange         { color : #ff850d !important; border-color : #ff850d !important; }
+			.black          { color : #000000 !important; border-color : #000000 !important; }
+            .white          { color : #ffffff !important; border-color : #ffffff !important; }
+            .gray           { color : #666666 !important; border-color : #666666 !important; }
+            .blue           { color : #067ab4 !important; border-color : #067ab4 !important; }
+            .dusty-blue           { color : #96b1d0 !important; border-color : #96b1d0 !important; }
+            .ochre           { color : #eaab00 !important; border-color : #eaab00 !important; }
+            .royal-blue           { color : #000066 !important; border-color : #000066 !important; }
+            .teal           { color : #00c7b2 !important; border-color : #00c7b2 !important; }
+            .warm-gray           { color : #cccc99 !important; border-color : #cccc99 !important; }
+            .gold           { color : #ff9900 !important; border-color : #ff9900 !important; }
+            .lime           { color : #b6bf00 !important; border-color : #b6bf00 !important; }
+            .accent         { color : #067ab4; border-color : #067ab4; }
+
+            .reverse        { color : #ffffff !important; background-color : #999999; padding: 2px 5px 2px 5px; font-weight : bold; }
+            
+
+/* fixing font sizes inside nested elements */
+
+            li li { font-size:1em !important; }
+
+            li li, li p, blockquote p, blockquote li {font-size:1em !important; }
+
+/* Force Plan Resource Hours styles */
+           	.sameBO { color:black; font-style: normal;}
+           	.diffBO { color:black; font-size: xx-small; font-style: italic;}
+
+#taskTitleDiv {
+	left: 0;
+	position:relative;
+	top: 0;
+	visibility:hidden;
+	background: white;
+	border: 1px solid rgb(0,51,204);
+	opacity: .9;
+	z-index: 9000;
+
+}
+
+#taskTitleDiv div {
+	padding-left: 8px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	padding-right: 8px;
+	border-bottom: 1px dotted rgb(0,51,204);
+}
+
+.acNoHighlight {
+}
+
+.acHighlighted {
+	background-color: rgb(0,90,180);
+	cursor: pointer;
+	color: white
+}
+.districtList {
+	width: 100;
+}
+.coeList {
+	width: 90;
+}
+.yearList {
+	width: 55;
+}
+.textReadonly{width:200px; height:23px; background-color:#F2F2F2; font-family: Verdana; font-size: 11px;}
+.textReadonly125{width:125px; height:23px; background-color:#F2F2F2; font-family: Verdana; font-size: 11px;}
+.textHeading{font-family: Verdana; font-size: 14px; font-weight: bold; color:rgb(15,75,135); margin-bottom:5px;}
+.largeButtonBlueBG {
+	background: url(../images/but2_blue.png) no-repeat;
+	border: 0px solid transparent;
+	width: 90px;
+	height: 25px;
+	margin: 0px 5px 0px 5px;
+}
+.largeButtonBlueBG1 {
+	background: url(../images/but3_blue.png) no-repeat;
+	border: 0px solid transparent;
+	width: 120px;
+	height: 25px;
+	margin: 0px 5px 0px 5px;
+}
+.whiteText {font-family: Verdana; font-size: 11px; color: white; font-weight: bold; align:left;}
+.reqMessage {
+				width:250px;
+				padding: 10px;
+				font-family: Verdana;
+				font-size: 11px;
+				font-weight: bold;
+				color: rgb(101, 101, 101);
+				background: url(../images/bg_footer.png) repeat-x;
+			}
+.txtMessage {
+				font-family: Verdana;
+				font-size: 11px;
+				font-weight: bold;
+				color: rgb(101, 101, 101);
+			}
+.errorMessage{
+				font-family: Verdana;
+				font-size: 11px;
+				font-weight: bold;
+				color: red;
+				padding: 2px;
+			}			
+.searchButton{
+	background: url(../images/search_icon.png) no-repeat;
+}
+.iconCalendarBox {
+	width: 20px;
+	height: 20px;
+	margin-top: 0px;
+	margin-right: 0px;
+	background: url(../images/icon_calendar.png) no-repeat;
+}
+.handCursor {
+	cursor: pointer;
+}
+.textInput{width:200px; height:23px; font-family: Verdana; font-size: 11px; font-weight: normal;}
+.textInput125{width:125px; height:23px; font-family: Verdana; font-size: 11px; font-weight: normal;}
+.textInput300{width:300px; height:23px; font-family: Verdana; font-size: 11px; font-weight: normal;}
+.textInput350{width:350px; height:23px; font-family: Verdana; font-size: 11px; font-weight: normal;}
+.success {
+	color: green;
+	font-weight: bold;
+	font-family: verdana;
+	font-size: 12px;
+	margin:5px;
+}
+.bkg{
+	background: url(../images/bgimg3.jpg) no-repeat;
+	 background-size: 100% 100%; 
+	 /* margin: 0px 5px 0px 5px; */ 
+}
